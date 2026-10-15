@@ -1,0 +1,44 @@
+{
+  "Feride": {
+    "openness": 0.7773,
+    "conscientiousness": 0.5709,
+    "extraversion": 0.7731,
+    "agreeableness": 0.3177,
+    "neuroticism": 0.7565
+  },
+  "Kamran": {
+    "openness": 0.4888,
+    "conscientiousness": 0.2717,
+    "extraversion": 0.4918,
+    "agreeableness": 0.8413,
+    "neuroticism": 0.7691
+  },
+  "Hayrullah_Bey": {
+    "openness": 0.7955,
+    "conscientiousness": 0.8327,
+    "extraversion": 0.8163,
+    "agreeableness": 0.5732,
+    "neuroticism": 0.2727
+  },
+  "Mujgan": {
+    "openness": 0.5499,
+    "conscientiousness": 0.8785,
+    "extraversion": 0.2432,
+    "agreeableness": 0.9117,
+    "neuroticism": 0.245
+  },
+  "Haci_Kalfa": {
+    "openness": 0.3195,
+    "conscientiousness": 0.7786,
+    "extraversion": 0.8513,
+    "agreeableness": 0.8286,
+    "neuroticism": 0.2759
+  },
+  "Munise": {
+    "openness": 0.4252,
+    "conscientiousness": 0.6236,
+    "extraversion": 0.2485,
+    "agreeableness": 0.8562,
+    "neuroticism": 0.8106
+  }
+}

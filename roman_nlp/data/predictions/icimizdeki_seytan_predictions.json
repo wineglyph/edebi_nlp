@@ -1,0 +1,37 @@
+{
+  "Omer": {
+    "openness": 0.7921,
+    "conscientiousness": 0.2168,
+    "extraversion": 0.5935,
+    "agreeableness": 0.5832,
+    "neuroticism": 0.841
+  },
+  "Macide": {
+    "openness": 0.7553,
+    "conscientiousness": 0.7763,
+    "extraversion": 0.594,
+    "agreeableness": 0.6134,
+    "neuroticism": 0.319
+  },
+  "Bedri": {
+    "openness": 0.7675,
+    "conscientiousness": 0.6418,
+    "extraversion": 0.5669,
+    "agreeableness": 0.868,
+    "neuroticism": 0.4869
+  },
+  "Nihat": {
+    "openness": 0.6535,
+    "conscientiousness": 0.4488,
+    "extraversion": 0.8436,
+    "agreeableness": 0.338,
+    "neuroticism": 0.4837
+  },
+  "Hafiz_Husamettin": {
+    "openness": 0.5206,
+    "conscientiousness": 0.4527,
+    "extraversion": 0.4801,
+    "agreeableness": 0.5812,
+    "neuroticism": 0.7661
+  }
+}

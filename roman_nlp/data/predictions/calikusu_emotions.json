@@ -1,0 +1,50 @@
+{
+  "Feride": {
+    "joy": 0.2033,
+    "sadness": 0.3364,
+    "anger": 0.1094,
+    "fear": 0.0313,
+    "trust_affection": 0.0598,
+    "curiosity": 0.2598
+  },
+  "Kamran": {
+    "joy": 0.2474,
+    "sadness": 0.3993,
+    "anger": 0.0288,
+    "fear": 0.0672,
+    "trust_affection": 0.1099,
+    "curiosity": 0.1474
+  },
+  "Hayrullah_Bey": {
+    "joy": 0.2434,
+    "sadness": 0.0837,
+    "anger": 0.0671,
+    "fear": 0.0283,
+    "trust_affection": 0.1504,
+    "curiosity": 0.4271
+  },
+  "Mujgan": {
+    "joy": 0.2349,
+    "sadness": 0.1935,
+    "anger": 0.0367,
+    "fear": 0.0527,
+    "trust_affection": 0.3702,
+    "curiosity": 0.112
+  },
+  "Haci_Kalfa": {
+    "joy": 0.463,
+    "sadness": 0.0673,
+    "anger": 0.0202,
+    "fear": 0.0734,
+    "trust_affection": 0.275,
+    "curiosity": 0.1011
+  },
+  "Munise": {
+    "joy": 0.0694,
+    "sadness": 0.3494,
+    "anger": 0.0185,
+    "fear": 0.2505,
+    "trust_affection": 0.2075,
+    "curiosity": 0.1047
+  }
+}

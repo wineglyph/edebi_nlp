@@ -1,0 +1,1293 @@
+﻿=== ÇALIKUŞU - DİYALOG VE REPLİK AYRIŞTIRMA VERİ SETİ (AŞAMA 2) ===
+Kaynak Metin: calikusu.txt
+Amaç: Karakter Kişilik Analizi (Big Five / OCEAN) & Konuşmacı Tespiti
+
+
+--------------------------------------------------------------------------------
+BÖLÜM 1: KRONOLOJİK DİYALOG SIRALAMASI (KONUŞMACI & DİYALOG METNİ)
+--------------------------------------------------------------------------------
+
+
+[DİYALOG 001]
+Konuşmacı: Sor Aleksi
+Muhatap: Sınıf / Feride
+Metin: "Hayattaki ilk hatıralarınızı yazmaya çalışın. Bakalım neler bulacaksınız? Sizin için güzel bir hayat temini olur."
+
+
+[DİYALOG 002]
+Konuşmacı: Binbaşı Nizamettin (Baba)
+Muhatap: Güzide (Anne)
+Metin: "Seni hiç olmazsa bir mevsim için, iki ay için annene göndereyim. O biçare de ihtiyar... Seni kim bilir ne kadar göreceği gelmiştir."
+
+
+[DİYALOG 003]
+Konuşmacı: Güzide (Anne)
+Muhatap: Binbaşı Nizamettin
+Metin: "Şartımızda bu var mıydı? İstanbul'a beraber dönmeyecek miydik?"
+
+
+[DİYALOG 004]
+Konuşmacı: Güzide (Anne)
+Muhatap: Binbaşı Nizamettin
+Metin: "Benim hiçbir şeyim yok... Biraz yorgunluk... İki gün evvel biraz hava değişti de ondan oldum, geçer."
+
+
+[DİYALOG 005]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Buraya gel Feride, nedir bu yaptığın?"
+
+
+[DİYALOG 006]
+Konuşmacı: Feride
+Muhatap: Sor Süperiyör
+Metin: "Köpeklere yiyecek vermek fena mı Ma Sor?"
+
+
+[DİYALOG 007]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Hangi köpeklere? Ne yemeği?"
+
+
+[DİYALOG 008]
+Konuşmacı: Feride
+Muhatap: Sor Süperiyör
+Metin: "Viranedeki köpeklere... Ah, Ma Sor, beni görünce ne kadar sevindiklerini bilseniz... Dün akşam ta köşe başında karşıladılar, ayaklarıma dolaşmaya başladılar... 'Sabredin... Ne oluyorsunuz?... Viraneye gitmeden vermem!' diyordum... Zalimler bir türlü lakırdı anlamıyorlar, beni yere yatırıyorlardı... Benim de inadım tuttu. Sepeti sımsıkı eteklerimin arasında tuttum... Az kalsın beni parçalayacaklardı... Bereket versin bir simitçi geçiyordu, beni kurtardı."
+
+
+[DİYALOG 009]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Peki, sen mektepten nasıl çıktın?"
+
+
+[DİYALOG 010]
+Konuşmacı: Feride
+Muhatap: Sor Süperiyör
+Metin: "Çamaşırhanenin arkasındaki duvardan atladım."
+
+
+[DİYALOG 011]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Nasıl cesaret ettin?"
+
+
+[DİYALOG 012]
+Konuşmacı: Feride
+Muhatap: Sor Süperiyör
+Metin: "Merak etmeyiniz Ma Sor... Duvar çok alçak... Hem nasıl istiyorsunuz ki kapıdan çıkayım?... Kapıcı beni bırakır mı hiç? Birinci defasında: 'Ma Sor Terez seni çağırıyor!' diye aldattım da öyle kaçtım... Rica ederim siz de beni haber vermeyin... Çünkü köpeklerin aç kalmaları tehlikesi var..."
+
+
+[DİYALOG 013]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Küçük hayvanları korumak güzel şey, fakat itaatsizlik etmek hiç öyle değil... Bırak sepeti bana... Ben kırıntıları kapıcı ile köpeklere gönderirim."
+
+
+[DİYALOG 014]
+Konuşmacı: Feride
+Muhatap: Sor Matild
+Metin: "Ma Sor, aziz annemizi melekler ziyarete gelmiş!"
+
+
+[DİYALOG 015]
+Konuşmacı: Sor Süperiyör
+Muhatap: Feride
+Metin: "Feride, çocuğum... Sana bir haber vereceğim... Üzücü bir haber... Baban bir parça hastaymış... Bir parça diyorum, ama galiba ziyadece..."
+
+
+[DİYALOG 016]
+Konuşmacı: Feride
+Muhatap: Sor Süperiyör
+Metin: "Anladım Ma Sor, üzülmeyiniz... Ne yapalım, hepimiz öleceğiz..."
+
+
+[DİYALOG 017]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne zamana kadar bu çocukluk Feride?"
+
+
+[DİYALOG 018]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne gülüyorsun?"
+
+
+[DİYALOG 019]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Hiç, aklıma bir şey geldi..."
+
+
+[DİYALOG 020]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne geldi?"
+
+
+[DİYALOG 021]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Söylemem..."
+
+
+[DİYALOG 022]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Haydi nazlanma... Zaten senin ağzında bakla ıslanmaz... Sonunda nasıl olsa söyleyeceksin..."
+
+
+[DİYALOG 023]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Darılma o halde... Sen hanımlarla tuvalet konuşurken düşündüm ki, Allah seni yanlış yaratmış. Kız olacakmışsın... Ama şimdiki yaşta değil... Şöyle on üç, on dört sularında..."
+
+
+[DİYALOG 024]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Peki sonra?..."
+
+
+[DİYALOG 025]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Deminden beri bir karış yeri dikinceye kadar parmağımı delik deşik etmiş olmama göre ben de yirmi, yirmi iki yaşlarında bir erkek..."
+
+
+[DİYALOG 026]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ee, sonra?..."
+
+
+[DİYALOG 027]
+Konuşmacı: Feride
+Muhatap: Kâmran / Misafirler
+Metin: "Sonrası ne olacak, Allah'ın emriyle, Peygamber'in kavliyle seni kendime alırdım, olur biterdi."
+
+
+[DİYALOG 028]
+Konuşmacı: Misafir Hanım
+Muhatap: Feride
+Metin: "Peki ama, bu şimdi de mümkün Feride."
+
+
+[DİYALOG 029]
+Konuşmacı: Feride
+Muhatap: Misafir Hanım
+Metin: "Nasıl?"
+
+
+[DİYALOG 030]
+Konuşmacı: Misafir Hanım
+Muhatap: Feride
+Metin: "Nasıl olacak? Kâmran'a varırsın... O, senin tuvaletlerinle uğraşır, söküklerini diker... Sen de sokak işlerine bakarsın..."
+
+
+[DİYALOG 031]
+Konuşmacı: Feride
+Muhatap: Kâmran / Misafirler
+Metin: "Mümkün ama Kâmran Bey için zararlı olur sanırım. Çünkü Allah esirgesin evde kavga çıkarsa kuzenimin hali ne olur? Vaktiyle nazik ayaklarına yedikleri taşı unutmamışlardır sanırım..."
+
+
+[DİYALOG 032]
+Konuşmacı: Feride
+Muhatap: Misafirler
+Metin: "Ayıp ettik, on dördüne gelmiş bir kız için pek ayıp oldu ama, kusura bakmazsınız artık..."
+
+
+[DİYALOG 033]
+Konuşmacı: Sor
+Muhatap: Misel
+Metin: "Ne o Misel, sen ağlıyor musun? Niçin?"
+
+
+[DİYALOG 034]
+Konuşmacı: Feride
+Muhatap: Sor / Sınıf
+Metin: "Misel, Kartacalıların mağlubiyetine meraklandı, ona ağlıyor."
+
+
+[DİYALOG 035]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Bravo hanım kızım, hiç yakıştıramadım, maşallah sizin gibi erişmiş, yetişmiş koskoca bir hanıma..."
+
+
+[DİYALOG 036]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Beni affediniz beyefendi, kaza vallahi... Daha doğrusu dikkatsizlik..."
+
+
+[DİYALOG 037]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Böyle dikkatsizliklerin yetişmiş bir küçükhanıma zararı dokunabileceğini düşünmüyor musunuz?"
+
+
+[DİYALOG 038]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Niçin acaba efendim?"
+
+
+[DİYALOG 039]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Mesela sizi oğluma almakta tereddüt edebilirim."
+
+
+[DİYALOG 040]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "O cihetten sigortalıyım beyefendi; zaten uslu bir kız olsam da almazdınız."
+
+
+[DİYALOG 041]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Nereden biliyorsunuz?"
+
+
+[DİYALOG 042]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Çünkü benim ağaca çıkmak, kiraz çekirdeği atmaktan çok daha büyük suçlarım vardır... Bir kere zengin değilim... İşittiğime göre zengin olmayan kıza pek iltifat eden olmazmış... Sonra güzelliğim de yok... Bana sorarsanız bu, fukaralıktan daha büyük bir kusur..."
+
+
+[DİYALOG 043]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Siz çirkin misiniz kızım?"
+
+
+[DİYALOG 044]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Ne demezsiniz? Ben kendimi bilmez miyim? Kız dediğiniz böyle mi olur? Uzun boy, sarı saç, mavi yahut yeşil gözler lâzım..."
+
+
+[DİYALOG 045]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Ah, zavallı çocuğum, sen güzelliğin ne olduğunu anlayacak, kendinin ne olduğunu fark edecek yaşta mısın acaba? Her neyse... Sizin adınız ne bakayım?"
+
+
+[DİYALOG 046]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Çalıkuşu..."
+
+
+[DİYALOG 047]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Bu, nasıl isim böyle?"
+
+
+[DİYALOG 048]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Pardon, beni mektepte böyle çağırırlar da... Asıl ismim Feride. Kendim gibi yuvarlak, zarafetsiz bir isim."
+
+
+[DİYALOG 049]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Feride Hanım... Sizin adınız da kendiniz gibi güzel, emin olun... Keşke oğluma sizin gibisini bulsam..."
+
+
+[DİYALOG 050]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Şu halde kendilerine de kiraz atabileceğim demek?"
+
+
+[DİYALOG 051]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Elbette... Elbette... Ona ne şüphe..."
+
+
+[DİYALOG 052]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Yalnız şimdilik müsaade edin de size birkaç kiraz vereyim. Beni affettiğinizi ispat için bunları mutlaka almanız lâzım... İki dakika..."
+
+
+[DİYALOG 053]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Aman dallar çatırdıyor... Sebep olacağım... Düşeceksiniz Feride Hanım."
+
+
+[DİYALOG 054]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Merak etmeyin... Düşmeye o kadar alışığım ki... Mesela yakın olsak şakağımda bir yara izi görürdünüz. Bir iz ki; bütün öteki güzellikleri tamamlar... Bitti efendim, bitti... Yalnız, onları size nasıl vereceğim? Buldum efendim, ona da çare buldum... Mendili hiç merak etmeyin... Henüz burnumu silmedim... Gayet temizdir... Şimdi onu yere düşürmeden tutmanızı rica ederim... Bir... İki... Üç..."
+
+
+[DİYALOG 055]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Çok teşekkür ederim kızım, yalnız ben şimdi mendilinizi nasıl iade edeceğim?"
+
+
+[DİYALOG 056]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Ziyanı yok... Size hediyem olsun!"
+
+
+[DİYALOG 057]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Nasıl olur?"
+
+
+[DİYALOG 058]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Niçin olmasın? Hem başka bir şey de var... Ben, birkaç güne kadar pansiyona döneceğim... Bizim mektepte bir âdet vardır... Kızlar tatil günlerinde genç erkeklerle kur yaparlar, sonra mektep açıldığı zaman bunları birbirlerine anlatırlar. Ben, daha böyle bir şey beceremediğim için yanlarında küçük düşüyorum... Bu sefer ben, bir şey kurdum... Mektebe gittiğim zaman mühim bir sırrım varmış gibi başımı önüme eğip düşüneceğim, mahzun mahzun gülümseyeceğim. Onlar: 'Çalıkuşu, sende bir şey var!' diyecekler... Gevşek gevşek, 'Hayır... Nem olacak?' diyeceğim... İnanmayacaklar, beni sıkıştıracaklar... O vakit: 'Peki, öyleyse... Ama kimseye söylemeyeceksiniz, yemin edeceksiniz!' diyeceğim ve bir yalan uyduracağım."
+
+
+[DİYALOG 059]
+Konuşmacı: Yaşlı Komşu Bey
+Muhatap: Feride
+Metin: "Ne yalanı?"
+
+
+[DİYALOG 060]
+Konuşmacı: Feride
+Muhatap: Yaşlı Komşu Bey
+Metin: "Sizinle tanışmam bu yalanı kolaylaştırıyor... 'Duvarın üzerinde sarışın, uzun boylu bir erkekle kur yaptık, birbirimize!' diyeceğim... Tabii, beyaz saçlı diyemem... Hem siz küçükken sarışınmışsınız galiba... Arkadaşların huyunu bilirim, 'Ne konuştunuz?' diye soracaklar... 'Beni güzel bulduğunu söyledi,' diye yemin edeceğim... Ben de mendil içinde kiraz verdim, demek tabii münasebet almaz... Gül verdim diyeceğim... Fakat bu da olmadı... Gülü mendil içinde vermek âdet değildir... Hediye mendil verdim, derim olur biter..."
+
+
+[DİYALOG 061]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Feride, çocuğum; azıcık aşağı iner misin?"
+
+
+[DİYALOG 062]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Ne münasebet?"
+
+
+[DİYALOG 063]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Hiç... Seninle konuşacağım var da..."
+
+
+[DİYALOG 064]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Benim sizinle konuşacak bir şeyim yok... Rahatımı bozmayınız..."
+
+
+[DİYALOG 065]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Feride, şakayı bırak!..."
+
+
+[DİYALOG 066]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Şaka mı? Ne münasebet?"
+
+
+[DİYALOG 067]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ama sen de çok oluyorsun... Sen aşağı gelmek istemezsen ben yukarı çıkmayı bilirim."
+
+
+[DİYALOG 068]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Durunuz bakalım orada... Durunuz, netice fena olacak... Bilirsiniz ki ben Çalıkuşu'yum. Ağaçlar benim mülkümdür. Oralara benden başkasının ayak basmasına tahammül edemem."
+
+
+[DİYALOG 069]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Bu ne garip konuşma Feride?..."
+
+
+[DİYALOG 070]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Biliyorsunuz ki, size hürmetim vardır. Sizi ağaçtan aşağı yuvarlamaya mecbur olursam pek üzülürüm. Biraz evvel şiir okuyan sesiniz birdenbire değişerek 'aman aman aman' diye bağırmaya başlarsa feci olur."
+
+
+[DİYALOG 071]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Şimdi görürsünüz."
+
+
+[DİYALOG 072]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Benimle konuşmayı niçin bu kadar istediğinizi anlayabilir miyim acaba?"
+
+
+[DİYALOG 073]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Seninle şakalaşıyoruz ama, mesele çok mühim, Feride... Korkuyorum senden..."
+
+
+[DİYALOG 074]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Öyle mi? Neyimden korkuyorsunuz acaba?"
+
+
+[DİYALOG 075]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Bir gevezelik etmenden..."
+
+
+[DİYALOG 076]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "O, her gün yaptığım şey değil mi?"
+
+
+[DİYALOG 077]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Bu gecekinin her zamankilere benzememesinden..."
+
+
+[DİYALOG 078]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Bu gecede ne fevkalâdelik var ki?..."
+
+
+[DİYALOG 079]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Merak etme, korkulacak bir şey olmadığına emin olabilirsin... Hemen misafirinin yanına dön... Ayıp olur."
+
+
+[DİYALOG 080]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Söz mü, Feride?... Yemin mi?..."
+
+
+[DİYALOG 081]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Söz, yemin... Ne istersen..."
+
+
+[DİYALOG 082]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "İnanayım mı?"
+
+
+[DİYALOG 083]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Zannederim ki, inanman lâzım... Artık eskisi kadar çocuk değilim..."
+
+
+[DİYALOG 084]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Feride..."
+
+
+[DİYALOG 085]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Hem ne biliyorum ki, ne söylememden korkuyorsun? Ben, kendi kendime oturuyordum ağacımda..."
+
+
+[DİYALOG 086]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Bilmem, fakat inanmak gelmiyor içimden..."
+
+
+[DİYALOG 087]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Sana büyüdüğümü, hemen hemen bir genç kız olduğumu söyleyişimde elbet bir maksat var... Hadi sevgili kuzenim... Fazla üzülmeyin... Bazı şeyler vardır ki, çocuk görür... Fakat artık büyümeye başlamış bir genç kız hiç fark edemez... Hadi gönlün rahat etsin..."
+
+
+[DİYALOG 088]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne kadar başka türlü konuşuyorsun Feride..."
+
+
+[DİYALOG 089]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Yetişir artık... Uzatırsan sözümü geri alacağım... Kendin düşün..."
+
+
+[DİYALOG 090]
+Konuşmacı: Besime Teyze
+Muhatap: Feride
+Metin: "Feride, sana verilen hediyelerin kıymetini böyle mi bilirsin?"
+
+
+[DİYALOG 091]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Sen misin Çalıkuşu? Niçin böyle kendi kendine, yavaş yürüyorsun?"
+
+
+[DİYALOG 092]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Biraz evvel oynarken düştüğümün, ayağımı yaraladığımın farkında değilsin galiba..."
+
+
+[DİYALOG 093]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "İster misin sana yardım edeyim?"
+
+
+[DİYALOG 094]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Herhalde beni arkana almayı teklif edecek değilsin..."
+
+
+[DİYALOG 095]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Tabii hayır... Buna imkân yok... Fakat koluna girebilirim, değil mi? Öyle değil... Kolunu omzuma at... Daha kuvvetli... Ben de seni belinden tutayım... Yükün biraz hafifler... Nasıl, yürürken daha az acı hissetmiyor musun?"
+
+
+[DİYALOG 096]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Mersi Misel, sen çok iyi bir kızsın..."
+
+
+[DİYALOG 097]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Biliyor musun Feride, bu pozda yürüdüğümüzü gören arkadaşlar ne zannedecekler? Feride de âşık olmuş... Mişel'e derdini anlatıyor, diyecekler..."
+
+
+[DİYALOG 098]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Doğru mu söylüyorsun? O halde hemen kolumdan çık."
+
+
+[DİYALOG 099]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Koca budala, nasıl buna ihtimal veriyorsun? Herkes senin ne olduğunu bilmez mi?"
+
+
+[DİYALOG 100]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Budala mı? Niçin? Ne demek istiyorsun?"
+
+
+[DİYALOG 101]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Hiç... Sanki senin böyle bir maceran olamayacağını... Kimse ile kur yapmana ihtimal olmadığını..."
+
+
+[DİYALOG 102]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Niçin?... Beni çirkin mi buluyorsun?"
+
+
+[DİYALOG 103]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Hayır... Çirkin değil... Belki hatta güzel... Fakat ıslah kabul etmez surette saf, aptal... Ben değil herkes öyle düşünüyor... Sevgi işinde Çalıkuşu bir hakiki gourde'dur, diyorlar."
+
+
+[DİYALOG 104]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Siz öyle zannededurun. Maalesef öyle."
+
+
+[DİYALOG 105]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Güzel... Çok güzel, Feride... Yazık ki bir türlü inanamıyorum..."
+
+
+[DİYALOG 106]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Evet Misel, ben de seviyorum."
+
+
+[DİYALOG 107]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Yalnız sevmek mi Çalıkuşu?"
+
+
+[DİYALOG 108]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Şüphesiz, karşılığı da var: Grande gourde."
+
+
+[DİYALOG 109]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Anlat Feride... Anlat, nasıl oldu? Demek sen de ha? Nasıl, sevmek güzel şey, değil mi? Kim bu?... Çok mu güzel sevdiğin genç? Nerede gördün? Nasıl tanıdın?"
+
+
+[DİYALOG 110]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Elbette güzel... Çok güzel! Haydi, artık ısrarı bırak."
+
+
+[DİYALOG 111]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Haydi Feride... Bekleme... Yoksa benimle şaka ettin, diyeceğim."
+
+
+[DİYALOG 112]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Kuzenimle birbirimize kur yapıyoruz..."
+
+
+[DİYALOG 113]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Geçen sene mektebin parloir'ında gördüğüm sarışın kuzen mi?"
+
+
+[DİYALOG 114]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Ta kendisi..."
+
+
+[DİYALOG 115]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Ah, ne güzel! Sana havadisim var, hem sevineceksin, hem üzüleceksin... Bugün senin sarışın kuzen mektebe geldi... Şüphesiz senin için... Keşke sen de benimle kalsaydın."
+
+
+[DİYALOG 116]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Bir genç erkeğin kur yaptığı kızı görmeye gelmesinden daha tabii ne olur? Zannederim."
+
+
+[DİYALOG 117]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Bulunmadığına üzüldün, değil mi? Bununla beraber o yine gelir, mademki seviyor..."
+
+
+[DİYALOG 118]
+Konuşmacı: Feride
+Muhatap: Misel
+Metin: "Ona ne şüphe?"
+
+
+[DİYALOG 119]
+Konuşmacı: Sor Matild
+Muhatap: Feride
+Metin: "Bunları sana kuzenin getirdi."
+
+
+[DİYALOG 120]
+Konuşmacı: Misel
+Muhatap: Feride
+Metin: "Bu kutular adeta nişan şekeri kutusu Feride."
+
+
+[DİYALOG 121]
+Konuşmacı: Muallim Sör
+Muhatap: Feride
+Metin: "Haydi Feride, haritalarını olduğu gibi bırak... Misafirini gör..."
+
+
+[DİYALOG 122]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Bunlar ne büyük iltifatlar, Kâmran Beyefendi... Gerçi şokololar, fondanlar biraz kılıcımızın hakkı ama, ne de olsa insan mahcup oluyor... Evvelki günkü kutuda bir nevi fondan vardı, inşallah onlara yeni kutularda da tesadüf etmek mümkün olur... Fakat hakikaten tarifine imkân yok... İnsan, onları ağzında eritirken yüreği de beraber eriyor."
+
+
+[DİYALOG 123]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Bu sefer zannederim daha kıymetli bir şey bulacaksın, Feride."
+
+
+[DİYALOG 124]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Hediyelerin her türü için teşekkür etmek lâzım, fakat müsaade ederseniz küçük bir römork yapayım... Birkaç sene evvel siz de bir çocuktunuz. O vakit haliniz ve ağırbaşlılığınızla büyük insanlara benzerdiniz gerçi, ama ne de olsa, bir çocuktunuz değil mi? Siz maşallah seneden seneye büyüyor, resimli roman kahramanlarına benzer bir genç oluyorsunuz da ben daima yerimde sayıyorum? Anlaşılmayacak bir şey yok. Yani siz büyüyorsunuz da ben neden Bibliothèque Rose masallarını okuyacak bir bebek kalıyorum ve bir türlü haline göre on beş yaşına girmiş bir kız muamelesine lâyık görülmüyorum?"
+
+
+[DİYALOG 125]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Pardon Feride, anlamadım. Yine anlamadım, Feride! Artık size ermiş, yetişmiş bir genç kız muamelesi etmek lâzım geldiğini ağzınızdan işitmek beni pek bahtiyar etti Feride. Kitaplar için sizden af dilemeye lüzum görmeyeceğim. Çünkü fondanlar ispat etmiştir ki, kitaplar zaten bir şakadan başka bir şey değildi. Maksat size kitap getirmek olsaydı belki o demin bahsettiğiniz romanlardan da seçebilirdim."
+
+
+[DİYALOG 126]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Ne söylediğinizi dinleyemedim, efendim, fondanlar o kadar güzel ki... Mamafih, bunları görünce barıştık. Mesele yok. Çok mersi, Kâmran."
+
+
+[DİYALOG 127]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne yapalım, mademki çocuk hediyeleri makbule geçmiyor artık, bundan sonra büyük insanlara mahsus ciddi şeylerle hatırınızı sorarız."
+
+
+[DİYALOG 128]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Bunları yemek de bir sanattır, Kâmran. Hem bu sanatı, âcizane ben keşfettim. Bak, mesela sen şu sarıyı kırmızıdan evvel yemekte bir zarar görmezsin, değil mi? Halbuki ne yazık? Çünkü kırmızı; hem fazla tatlıdır, hem biraz nanelidir. Onu evvela yersem sanırım o nazik lezzetine, o şairane kokusuna yazık olur. Ah, canım şekerler..."
+
+
+[DİYALOG 129]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Onu bana versene, Feride. Yiyeceğim. Sadece onu ver!"
+
+
+[DİYALOG 130]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Ne demek? Kutuyu yanında açtığımıza galiba fena ettik. Getirdiklerini kendin yemeye başlarsan işimiz var... Sizin böyle el çabukluğu hünerleriniz yoktu ama nasıl oldu? Bakın, ben size bu kadar güzel fondanın nasıl yeneceğini tarif edeyim de ondan sonra kapın... Şimdi artık öğreneceğinizi öğrenmiş sayılacağınız için bir tane ikram edebilirim."
+
+
+[DİYALOG 131]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "İstemem, hepsi senin olsun."
+
+
+[DİYALOG 132]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Az kalsın unutuyordum, sütninenin torunu köşkte mi? Tabii... Biliyorum... Yalnız... Ne bileyim işte? Ben bu çocuğu o kadar seviyorum ki... Yüzüne bakmamak ne ispat eder, rica ederim. Sevmediğimi mi? Ne delilik!... Bilâkis ben, bu çocuğu o kadar çok seviyorum ki..."
+
+
+[DİYALOG 133]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Elbette köşkte... Nereye gitmesini isterdin? Bu da nereden çıktı, yüzüne bile baktığın yoktu biçarenin..."
+
+
+[DİYALOG 134]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Adı nedir? Ne iş yapar? Evinin adresi ne? Ben, hafta başında teyzeme sorarım."
+
+
+[DİYALOG 135]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Ne yapacaksın? Niçin bu merak? Sakın ha! Anneme ondan bahsetme... Görüşmemi istemez de..."
+
+
+[DİYALOG 136]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Ne baba dostlarınızla, ne kendi dostlarınızla meşgul olduğumu zannediyorsanız yanılıyorsunuz. Münasebetsizliğimden öyle bir lakırdı ortaya atıverdim işte."
+
+
+[DİYALOG 137]
+Konuşmacı: Misafir Hanım
+Muhatap: Necmiye
+Metin: "İki gün evvel Neriman'dan bir mektup aldım, çok mesutmuş... Neriman kocasından çok memnun görünüyor, bu sefer mesut olsun zavallı..."
+
+
+[DİYALOG 138]
+Konuşmacı: Necmiye
+Muhatap: Misafir Hanım / Feride
+Metin: "Ya, ya! Bu sefer bari mesut olsun zavallı... Ay, haberin yok mu? Çoktan... Neriman, bir mühendisle evlendi... Beş, altı aydan beri kocasıyla beraber İzmir'de..."
+
+
+[DİYALOG 139]
+Konuşmacı: Feride
+Muhatap: Misafir Hanım
+Metin: "Hanımefendi, tekrar evlendiler mi? Mektubunu aldığınız hanım. Neriman Hanım..."
+
+
+[DİYALOG 140]
+Konuşmacı: Feride
+Muhatap: Besime Teyze / Necmiye
+Metin: "İzniniz olursa bunun imkânsız bir şey olmadığını ispat ile kesb-i şeref edeceğim."
+
+
+[DİYALOG 141]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Gel, Müjgân Abla, seni arkama alayım... Öyle geçireyim. Bakalım, bir tecrübe edelim de, olursa ne âlâ. Tüy gibi hafifsin abla. Çırpınacak olursan boylu boyumuza düşeriz, ikimize de yazık olur. Fakat rahat durursan korku yok."
+
+
+[DİYALOG 142]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Deli çocuk, sen koskoca insanı nasıl kaldırırsın? Delilik etme, bırak. Sen, beni nasıl taşırsın? Ettin mi edeceğini, Feride? Şimdi ne yapacağız?"
+
+
+[DİYALOG 143]
+Konuşmacı: Feride
+Muhatap: Müjgân / Balıkçı
+Metin: "Balıkçılar adam yemezler ya. Ben Marika diye bir kızım; tüccar amcama İstanbul'dan misafir getirdim. Ne bileyim... İstanbul'daki teyzeler, 'Dilini sıkı tut. Saçmasapan konuşma... Oraları dedikoducu yerlerdir,' diye tekrar tekrar tembih ettiler bana. Balıkçılar, 'Bu nasıl Müslüman kız böyle, sade başını değil bacaklarını da açıyor,' demesinler diye."
+
+
+[DİYALOG 144]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Anlayalım Müjgân Abla! Şunu demek istiyorum ki artık eskisi kadar çocuk değiliz abla... Zabit Beyle mükemmel kur yapıyorsunuz. Biraz akran muamelesi etmek tenezzülünde bulunmanızdan ne çıkar efendim? Onu zannetmemek için biraz aptal olmalı."
+
+
+[DİYALOG 145]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Ne demek istiyorsun, Feride? Ben mi? Deli çocuk! Zabitin benim için dolaştığını mı zannediyorsun? Yavrucuğum, ben öyle arkasından koşulacak bir kız değilim ki... O, senin için etrafımızda gidip geliyor... Evet, senin için... Sen gelmeden evvel yine görürdüm. Fakat beni yolun kenarındaki şu ağaçlardan ayırt etmeden geçer giderdi ve bir daha dönmezdi..."
+
+
+[DİYALOG 146]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Senin bir derdin var Feride, hiç sesin çıkmıyor. Ne dedim ben? Peki ama, bundan sana ne? Ne çirkin, ne güzeli... Ortayım diyeyim de kavgayı kısa keselim... Sana gelince, biliyor musun sen büyüdükçe dehşet bir şey oluyorsun!"
+
+
+[DİYALOG 147]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Gündüz söylediğin münasebetsiz lakırdıyı aklımdan çıkaramıyorum, mahzun oluyorum. 'Ben arkasından koşulacak bir kız değilim ki,' dedin. Sen çirkin misin abla? Benim için de orta diyelim de mesele bitsin."
+
+
+[DİYALOG 148]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Zavallı Ferideciğim. Sen, Kâmran'ı sahiden seviyorsun. Bırak beni... Üstümü başımı yırtacaksın. Yoldan görecekler, rezil olacağız, Allah aşkına yapma! Mutlaka geri alacağım. Ne istersen yapacağım, bırak beni... Peki, hatır için değil... Seni aldatmak için değil... Sahiden... Feride, sen sahiden deliymişsin."
+
+
+[DİYALOG 149]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Ne dedin abla, ne dedin? Ben, sinsi sarı çıyanı... Sözünü mutlaka geri alacaksın... Ama öyle hatır için değil, beni aldatmak için değil... Allah'tan korkmadan bana nasıl iftira ediyorsun, abla? Ben daha çocuğum."
+
+
+[DİYALOG 150]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Deli, sevmek ayıp mı? Kıyamet kopmadı ya... Daha olmazsa evlenirsiniz, olur biter... Uyu bakayım gözümün önünde... Ben öyle terbiyesizlik istemiyorum. Galiba o da sana karşı lakayt değil."
+
+
+[DİYALOG 151]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Ne anlıyorsun bu Ermeni gelini edalı hanımlardan? Gel sen de benimle beraber. Geceyi hatırlamıyorum bile."
+
+
+[DİYALOG 152]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Sen hakikaten şaşılacak bir mahluksun, canavar gibi bir şeysin Feride. Akşam ne haldeydin? Sabahleyin iki saat bile uyumadın, tekrar ayağa kalktın. Halinde zerre kadar yorgunluk eseri yok. Rengin parlıyor, gözlerin parlıyor. Halbuki beni ne hale getirdin, bak! Kim acaba? Zannetmiyorum. Çok tuhaf! Herhalde bir bildik olacak. Feride, bu Kâmran'a benziyor. Sakın... O, vallahi, ta kendisi."
+
+
+[DİYALOG 153]
+Konuşmacı: Feride
+Muhatap: Kâmran / Müjgân
+Metin: "İmkânı yok. Ne işi var burada. Hayret, siz buralarda... Bu kadar uzun yolculuğu nasıl göze aldınız? Müjgân Abla ile kendimize bir böğürtlen ziyafeti verdik. Ellerim yapış yapış. Sonra da üstüne tozlar yapıştı. Teyzeler nasıl? Necmiye nasıl? Mersi. Güneşten. Kim bilir... Şemsiyesiz mehtapta mı dolaştı, nedir? 'Misafir misafiri çekemez' derler."
+
+
+[DİYALOG 154]
+Konuşmacı: Kâmran
+Muhatap: Feride / Ayşe Teyze / Müjgân
+Metin: "Gözlerinden öpüyorlar, Feride. Ne kadar yanmışsın, Feride... Derin pul pul olmuş. Bu yaz İstanbul'da çok sıkıldım, ama bilemezsiniz ne kadar çok... Evvelki gece ayın on beşi idi. Bir arkadaş grubuyla Alemdağı'na çıktık. Son derece güzel bir geceydi. Fakat benim yorucu eğlencelere tahammülüm yok. Sabaha doğru kimseye haber vermeden kendi kendime şehre indim. Hasılı, fena halde sıkılıyordum. Birkaç gün İstanbul'dan uzaklaşmayı düşündüm. Fakat nereye gidersiniz? Yalova'nın mevsimi değil. Bursa bu aylarda cehennem gibi yanar. Birdenbire aklıma siz geldiniz. Zaten sizi de dehşetli göreceğim gelmişti. Misafire hürmette kusur ediliyor galiba."
+
+
+[DİYALOG 155]
+Konuşmacı: Müjgân
+Muhatap: Feride
+Metin: "Sahtekârlığa lüzum yok, aç gözlerini. Tahminim doğru çıktı. Hiç... Hiç... Allah aşkına boğuşmaya falan kalkayım deme, yorgunluktan ölürüm. Peki... Peki... Ne istersen."
+
+
+[DİYALOG 156]
+Konuşmacı: Feride
+Muhatap: Müjgân
+Metin: "Vallahi uyuyordum. Ne demek istiyorsun? Peki, yalnız dilinin ucunda bir şey var ki mutlaka söylemezsen bu sefer ben uyuyamayacağım. Senin aklından delice bir şeyler geçiyor. Anlıyorum... Ona bir şey söyleyecek olursan seni zorla kucağıma alır, ikimizi birden denize atarım..."
+
+
+[DİYALOG 157]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "İkramın fazlalığından öleceğim, Feride. 'Misafir misafiri çekemez' ama, misafirin misafire ev sahibini çekiştirmesi eski usullerdendir. Bari ben de öyle yapayım... Tanıdığım insanlar hiç öyle zevk verici insanlar değil. Feride..."
+
+
+[DİYALOG 158]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Fena mı? Sizi her gün gezdiriyorlar. İyi ama, ortada şikâyet edilecek bir şey yok. Her gün yeni yerler, insanlar tanıyorsun. Sizi eğlendirecek insanı nereden bulup getirsinler, zavallılar?"
+
+
+[DİYALOG 159]
+Konuşmacı: Kâmran
+Muhatap: Müjgân / Feride
+Metin: "Bugün de şemsiyenizi unutmamışsınız. O kadar aleyhinde bulunmayın. Kim bilir, belki zengin bir yerli ile evlenirsiniz. Milyoner de olsa o kadar demokrat olamayız, değil mi, Feride? Ben, kuzen sıfatıyla buna katiyen razı olmam. Buna diyeceğim yok. Cevap vermek kendi hakkı. Bunu bana da söyleyebilirsin, Müjgân. Ben yabancı değilim ki..."
+
+
+[DİYALOG 160]
+Konuşmacı: Müjgân
+Muhatap: Kâmran / Feride
+Metin: "Evet ama, bugün de yağmur tehlikesi var... Güzel ama, insana hüzün veriyor. Bu mevsimden sonra günler ekseriya bugüne benzer. Sonra kış. Bilmezsiniz buranın kışı ne kadar sıkıcıdır... Babam aksi gibi öyle bir alıştı ki, başka bir yere kaydıracaklar diye ödü kopuyor. Allah esirgesin. Beni değil ama, galiba Feride'yi büsbütün Tekirdağ'da bırakacağız. Kısmeti çıktı. İsa kaptan diye bir balıkçının oğluna istiyorlar. Balıkçı deyip de geçmeyin. Son derece zengin bir insan. Hepsi o kadar değil, Feride'nin daha yüksek kısmetleri de var. Mesela ateş gibi bir süvari zabiti her akşamüstü atıyla evimizin karşısına geliyor, kendini Feride'ye beğendirmek için tehlikeli hünerler yapıyor. Yalnızken böyle konuşmuyorsun ama..."
+
+
+[DİYALOG 161]
+Konuşmacı: İhtiyar Balıkçı
+Muhatap: Feride
+Metin: "Çoktan görünmüyorsun, Marika. Ne olacak, ateşte kaynayan katranı devirdi meret. Lâkin, bunu onun yanına bırakmayacağım."
+
+
+[DİYALOG 162]
+Konuşmacı: Feride
+Muhatap: İhtiyar Balıkçı / Kâmran / Müjgân
+Metin: "Bir gün sizinle balığa çıkmaya hazırlanıyorum. Sen çok oluyorsun artık. Bilirsin ki, böyle lakırdılardan hoşlanmam. Yalancı, iftiracı... Anlaşıldı. Sizinle kavga etmeden konuşulmayacak. Allahaısmarladık. Ne var, ne istiyorsun zavallı hayvandan?"
+
+
+[DİYALOG 163]
+Konuşmacı: Aziz Enişte
+Muhatap: Feride
+Metin: "Kız, ne o çehre? Pancar gibi kızarmışsın! Biri mi kovaladı?"
+
+
+[DİYALOG 164]
+Konuşmacı: Feride
+Muhatap: Aziz Enişte / Çocuklar / Ayşe Teyze / Kâmran
+Metin: "Ne münasebet! Hepiniz kenara sıralanın, bakayım... Ben, sizi birer birer kendim sallayacağım. Hayır, hiçbirinizi almayacağım, korkuyorsunuz. Teyze, böyle söylüyorsunuz ama, düşerlerse, bir yerleri kırılırsa sonra beni haşlarsınız. Teyze, bilmez gibi söylemeyin, rica ederim. Kırk yıllık Çalıkuşu'nu daha tanımadınız mı? Bana güven olur mu? Uslu uslu başlarım. Sonra salıncak gidip geldikçe şeytan yavaş yavaş dürteler: 'Haydi, haydi. Biraz daha!' diye. 'Etme, eyleme, yanımda çocuklar var!' diye cevap veririm. Fakat o: 'Haydi Feride, haydi Feride!' diye tekrar eder. Bu kadar teşvike bir zavallı Çalıkuşu nasıl dayanır, insaf etsenize! Hatırın kalmasın ama, seninle hiç olmaz diyorum. Bu tombul yanacıkları kanatırsak ne olur? Haydi küçük, Kâmran ağabeye yanaş, o, hanım gibi nazlı, nazik bir çocuktur. Ninnisi eksik bir sütnine gibi seni sarsmadan, yormadan uslu uslu sallar. Yalnız, fazla kıpırdama. Çünkü nazik kolları seni zapt edemez, ikiniz de düşersiniz. Ne münasebet. Pişman olmaya başladınız mı acaba? Onu size sormalı. İnelim artık, düşeceğim. Hayır teyze. Ben mi ağlıyorum, teyze? Düşmeden evvel ağlamış olacağım, teyze."
+
+
+[DİYALOG 165]
+Konuşmacı: Ayşe Teyze
+Muhatap: Feride / Kâmran
+Metin: "Feride, onların da biraz gönlünü ediver, canım. A kızım, çocukları düşürtmek şart değil ya. Yavaş sallayıver. Aman, Kâmran, çocukluk etme. O canavarla başa çıkamazsın, bir yerini kırar. Yeter, yeter! Bir yerin acıyor mu, kızım? Öyleyse niçin ağlıyorsun? Gözlerindeki yaşlar ne?"
+
+
+[DİYALOG 166]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Eğleniyorsun öyle mi yaramaz? Şimdi görürüz, beraber sallanacağız. Ne bekliyorsun, Feride? Korkuyor musun? Kimin pişman olacağını görürüz. Yeter mi, Feride? Benim için hayır. Müjgân'dan öğrendiğim güzel şeyden sonra, yorulmama imkân yok... Bunu ümit ediyordum. Ben, buraya senin için geldim Feride... Hayır, Feride, benimle evlenmeye razı olduğunu ağzından işitmeden seni bırakmam, beraber düşüp ölünceye kadar."
+
+
+[DİYALOG 167]
+Konuşmacı: Besime Teyze
+Muhatap: Feride
+Metin: "Beğenmedin mi yoksa, Feride? Elini uzat da bir tecrübe edelim. Eski bir yüzüğünü ölçü verdim, inşallah dar falan değildir. Çocukluk etme, Feride. Birkaç gün sonra akrabalarımıza bir küçük davet vereceğiz. Nişan takacağız. Nasıl, nişan toplantısında senin yerine bir vekil mi koyacağız? Nikâhta öyledir ama kızım, nişanda henüz böyle bir âdet çıkmamıştır. Feride, zannederim ki, artık çocukluğu bırakmak zamanı gelmiştir. Şimdi senin yalnız teyzen değilim, annenim de... Buna pek memnun olduğumu söylemeye lüzum yok değil mi? Sen, Kâmran için, huyunu bilmediğim herhangi bir yabancı kızdan çok daha iyisin. Yalnız... Yalnız biraz fazla havaisin. Çocuklukta bu, belki pek zararlı bir şey değildir. Fakat gitgide büyüyorsun. Büyüdükçe de elbette ağırlaşacaksın, akıllanacaksın. Mektebini bitirmene ve evlenmenize aşağı yukarı; dört sene var. Hayli uzun zaman. Böyle olmakla beraber sen, nişanlı bir kızsın. Ne demek istediğimi, bilmem anlatabiliyor muyum? Ciddi ve ağırbaşlı olmalısın. Çocukluğa, yaramazlığa, inatçılığa artık nihayet vermelisin. Kâmran'ın ne kadar ince hisli ve nazik olduğunu biliyorsun. Şimdi artık anlaştık, değil mi, Feride? Sırf akraba ve bir iki yakın dost için bir nişan ziyareti yapacağız. Mutlaka bir yaramazlık ettin. Ehemmiyetli bir şey ki, saklıyorsun. Bir hekime gösterelim, başımıza bir iş açar."
+
+
+[DİYALOG 168]
+Konuşmacı: Feride
+Muhatap: Besime Teyze / Müjgân / Kâmran
+Metin: "Çok güzel teyze, mersi. Şimdi imkânı yok, teyze. Daha sonra... İstemem. Buna mutlaka lüzum görüyorsanız ben mektebe gittikten sonra yapın. İmkânı yok bunun teyze. Dünyada en acıdığım, alay ettiğim insanlar, nişanlı kızlardı. Ben, onlardan biri oldum. Onlara yalvar. Kimse bana, nişanlı demesin. Yerin dibine geçiyorum, korkuyorum, ben daha çocuğum. Önümüzde daha dört uzun sene var. O zamana kadar daha büyürüm, alışırım. Kimse bana nişanlı muamelesi etmesin şimdi. İstemiyorum... Korkuyorum, utanıyorum, tuhaf bir şey işte... Anlatamayacağım ki. Arabacının yanına bineyim. Şimdiden mi? Evet, ama... Müjgân kız. Cariyeniz de, zannederim, öyle. Aramızda konuştuğumuz her şey, herkese söylenemez. Yanlış anlamayınız. Tipiniz, biraz kadın tipi olmasına rağmen erkeksiniz. Demek ki, bir kız arkadaşa söylenecek her şey bir erkeğe tekrar edilmez. Galiba bozuşacağız. Biliyorsun ki, ben bu kelimeyi istemiyorum. Bir şey değil, bir parçacık kestim; ziyanı yok, kendi kendine geçer. Sörler, mutlaka mektep açıldığı gün gelmemi tembih ettiler. Bu sene de dersler çok sıkı."
+
+
+[DİYALOG 169]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Biliyor musun, Feride, beni bedbaht ediyorsun. Müjgân'a söylediğini bir kere de senin ağzından işitmek istiyorum. Zannederim ki, bu benim hakkım. Ben herkes miyim? Ben, senin nişanlın değil miyim? Görüyorsun ki, kendime bedbaht demekte hakkım var. Yine belki ağzıma vurursun diye kelimeyi söylemeye cesaret edemiyorum. Fakat sana karşı, kimse için duymadığım bir his var içimde... Bu kadar aceleye ne lüzum var Feride? Birkaç gün daha kalabilirsin. Benden bu kadar çabuk kaçmak isteyeceğini ummazdım, Feride."
+
+
+[DİYALOG 170]
+Konuşmacı: Sor Aleksi
+Muhatap: Feride
+Metin: "Notları beğendin mi, Feride? Epeyce değil, pek çok. Ben sizin bu kadar düştüğünüzü hatırlamıyorum. Halbuki bu sene başka türlü çalışacağını umardım. Sadece o kadar mı? Zannederim ki, bültendeki numaraları herkese göstermekten sıkılacaksınız... Bu sene sınıf geçemezseniz bir sene, bir uzun sene daha burada beklemek tehlikesi var. Onu, sen kendi kendine bulabilirsin."
+
+
+[DİYALOG 171]
+Konuşmacı: Feride
+Muhatap: Sor Aleksi / Kâmran / Doktorun Kızı
+Metin: "Epeyce bozuk Ma Sor. Hakkınız var. Bu sene geçen seneden bir yaş daha büyüğüm. Tehlike mi? Niçin tehlike? Rica ederim Kâmran, biliyorsunuz ki, odada görünür görünmez kaç delik varsa, o kadar da göz vardır. İşte, asıl o bozuyor ya... Bir gün: 'Ziyaretleriniz biraz sıkça oluyor. Affedersiniz ama, burasının mektep olduğunu hatırlamanız lâzım gelir!' yolunda bir söz işitmek istemezsiniz... Nereden bu haber? Evet, öyle bir fikir var; küçük bir seyahat. Çok az kalacak."
+
+
+[DİYALOG 172]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Nasıl olur, Feride? Biz nişanlıyız. Annem mi? Annemin hiçbir şeyi yok. Hasta diye mi duydun? Kim söyledi? Yanlış olacak. Hatta doktor, son günlerde, ne annem, ne de başkası için köşke uğradı. Neden bu acele Feride? Adeta benden kaçıyorsun! Evet, ama, içeride de, çaresiz herkesle beraber konuşacağız. Halbuki, ben seninle yalnız konuşmak istiyorum. Mersi. O halde, istersen kimseye görünmeden bahçede biraz dolaşabiliriz. Şuraya biraz oturabilir miyiz, Feride? Ne yapıyorsun, Feride? Ne söylüyorsun, Feride? Bunu sen mi bana söylüyorsun? Nişanlandığımızdan beri senden işittiğim en tatlı söz. Sana biraz sitem yapmaya hazırlanıyordum, Feride, fakat şimdi hepsini unuttum. Zannederim ki, yaptın, Feride. Hatta fazlaca bile. Bir nişanlı, bu kadar ihmal edilir mi? İçimde fena şüpheler de uyandı. Sakın Müjgân yanılmış olmasın? Böyle ne demek? Yani benim nişanlım mı? Feridem! Beni, bu dakika içinde o kadar mesut ettin ki, ölürken aklıma gelirse ağlayacağım. Öyle yüzüme bakma. Sen daha pek küçüksün. Mümkün değil, öyle şeyleri anlayamazsın. Hepsini unuttum artık. Bir fikir. Daha doğrusu, benim fikrim de değil. Madrid'deki amcamın bir tasavvuru. Nereden duydun? Doktorun kızı, sana ne çok haberler veriyor, Feride? Sakın annemin hastalığı bir bahane olmasın? Doğru söyle, Feride. Sen bunun için mi geldin? Tahminim doğru mu, Feride? Ne güzel... Dünden beri talihim ne kadar değişti! Olacak gibi değil. Beni, sefaret kâtibi olarak yanına almak istiyor. Muayyen bir mesleği, yahut bir memuriyeti olmamasını bir erkek için eksiklik sayıyor. Ben, tabii onun fikirlerini söylüyorum, 'İlerde bir sefaret memuruyla beraber Avrupa'ya gitmek belki Feride'yi de memnun edecektir' diyor. Ne bileyim, birtakım sözler... O cihetten söylemiyorum. Bundan sonra, ben artık hareketlerimde serbest bir insan değilim. Hayatıma taalluk eden her şeyi seninle konuşmaya mecburum. Öyle değil mi? Demek, benim İstanbul'dan ayrılmama razı oluyorsun, Feride? Sen, benim yerimde olsan gider miydin? Demek amcamın teklifini kabul etmemi doğru buluyorsun? O halde düşünürüz. Kati bir karar vermek için, daha vaktimiz var. Bir memuriyet, o kadar kısa bir şey mi, Feride?"
+
+
+[DİYALOG 173]
+Konuşmacı: Feride
+Muhatap: Kâmran
+Metin: "Şu gülüşe bakınız, aman, ne kocaman ağız! Timsaha benzemiyor mu? Bonjur, Kâmran, teyzem nasıl? Ehemmiyetli bir şey değil inşallah... Evet, hasta diye işittim de merak ettim; pazara kadar sabredemeyerek izin aldım. Doktorun kızı... Söz arasında: 'Babamı size çağırdılar, galiba teyzeniz hastaymış' dedi. Çok sevindim, öyle merak ediyorum ki... Onlar, tabii, içerdeler... Ne münasebet, botlarım sıkıyor da... Zaten içeriye beraber gidecek değil miyiz? Emir sizin. Sen, nasıl istersen. Sen, naziksin; kuru yere oturma... Hasta olmaman için. Zannederim ki, seni muhafaza etmek bundan sonra benim vazifem oluyor. Ben sana bir şey yapmadım ki. Müjgân yanılsaydı, böyle olmazdı ki. Sen önden gitmelisin, ben havuzda yüzümü iyice yıkayacağım. Beni, bu suratla görürlerse ne derler? Avrupa'ya bir seyahat varmış öyle mi? Doktorun kızından. Amcan ne teklif ediyor? Bu teklife niçin 'Olacak şey değil' dedin? Avrupa'ya gitmek seni memnun etmeyecek mi? O halde gidebilirsin. Mademki bir erkek için mutlaka bir meslek lazımmış... Zannederim ki, giderdim. Yine zannederim ki, senin de şimdi öyle yapman lâzım. Evet. Ben, daha fazla düşünmeye değer bir şey görmüyorum. Amcanın teklifi hakikaten hoş bir teklif. Kısa bir seyahat hiç fena olmaz. Doğrusu, pek uzun da sayılmaz. Bir, iki, üç, dört senecik. Göz yumup açıncaya kadar geçer... Tabii arada geleceksin de..."
+
+
+[DİYALOG 174]
+Konuşmacı: Terzi Matmazel
+Muhatap: Feride / Kalfa
+Metin: "Rica ederim, matmazel, birkaç güne kadar size madam diyeceğim. Doğru mudur bu yaptığın? Son provanızı yapmak için yarım saattir sizi arıyorum. Yapmayınız, Allah aşkına, çekilin, elbise parçalanıyor. Güzelim elbise gitti!"
+
+
+[DİYALOG 175]
+Konuşmacı: Kâmran
+Muhatap: Feride
+Metin: "Aç, Feride, benim. Bana yasak yok tabii. Bırak, sana yardıma geleyim. Mağlubiyetini artık teslim etmen lâzım Feride. Aç, elbiseni göreyim. Feride, şimdi sokaktan geldim. Çok yorgunum. Uğraştırma beni, elbiseni o kadar merak ediyorum ki, inat edersen zora müracaat etmek mecburiyetinde kalacağım. Bak, beşe kadar sayıyorum: Bir iki, üç, dört, beş... Affet beni, Feride. Ben, sana küçük bir şaka yapmak istemiştim. Buna hakkım var sanıyordum. Fakat, hâlâ o kadar çocuksun ki... Beni affediyorsun değil mi? Bir şartla. Seni bahçenin nihayetindeki kayanın yanında bekleyeceğim. Hatırlıyor musun, dört sene evvel bir akşam, seninle orada barışmıştık. Şimdi de öyle yapacağız. Söz mü?"
+
+
+[DİYALOG 176]
+Konuşmacı: Feride
+Muhatap: Terzi Matmazel / Besime Teyze / Kâmran
+Metin: "Pardon matmazel, buracıktaydım. Temin ederim ki işitmedim. Üzülmeyin teyze, çok değil, daha üç güncük dişinizi sıkmanız lâzım. O zaman benim için, teyzeden başka bir adınız ve sıfatınız olacak. Çalıkuşu'nun teyzesine yaptığı naz ve şımarıklığı Feride'nin, o hanımefendiye yapmaya cesaret edemeyeceğini size temin ederim. Ne olursunuz, siz dışarı çıkın. Gözünüzün önünde giyinmeyeceğim. Arasında etekli elbisesiyle Çalıkuşu'nun bir tavus kuşu şekline girdiğini bir tasavvur edin. Aman, ne gülünç! Kendim bile güleceğim. Ne olur, bu iş adi tuvaletle olsun! Bir parça daha, rica ederim, bir dakikacık, hepinizi çağıracağım. Hepsi gelsinler, ziyanı yok, sen olmaz. Sen Allah aşkına git. Vallahi ağlayacağım. Peki ama sen, hemen odadan çıkmalısın. Peki, gelirim, ama sen, şimdi git."
+
+
+[DİYALOG 177]
+Konuşmacı: Siyah Çarşaflı Kadın (Münevver'in Elçisi)
+Muhatap: Feride
+Metin: "Küçükhanım, biraz zahmet eder misiniz, efendim? Merhum Seyfettin Paşa'nın köşkü değil mi? Siz köşkten misiniz, efendim? O halde sizden bir ricada bulunacağım. Ben, Feride Hanımefendi ile görüşmek istiyorum. Size tesadüfüm çok iyi oldu, çocuğum. Sizden bir yardım rica edeceğim. Benim Feride Hanımla yalnız olarak konuşmama delalet edeceksiniz. Mümkünse kimsenin bundan haberi olmamalı. Kâmran Beyle evlenecek Feride Hanım mı? Feride Hanım, ben, bir eski arkadaşımın zoruyla bir elçi vaziyetinde buraya geliyorum. Fakat, üzerime aldığım vazifenin bu kadar güç olduğunu kestirememiştim. Biraz evvel sizi görmek için ısrar ettiğim halde şimdi adeta kaçmak istiyorum. Hayır. Daha doğrusu şahsınızı görmemiş. Yalnız Kâmran Bey'in nişanlısı olduğunuzu biliyor. Dinleyin beni Feride Hanım. Niçin birdenbire durakladığımı anlamıyorsunuz. Burada ermiş, yetişmiş bir hanımla karşılaşacağımı umuyordum. Halbuki önüme adeta bir mektep çocuğu çıktı. Sizi fazla müteessir etmekten korkuyorum. Tereddütümün sebebi bu. Kâmran Bey'i çok seviyor musunuz? Belki vardır, Feride Hanım. Peki, öyle olsun. Size Kâmran Beyi, bir başkasının da sevdiğini haber vermeye mecburum. İlk bakışta sizi bir çocuk gibi görmüş olmakla beraber, mükemmel yetişmiş yüksek bir genç kız karşısında bulunduğumu anlıyorum. Kâmran Bey maalesef sizi lâzım geldiği kadar takdir edememiş. Yahut, ne bileyim, belki takdir ettiği halde geçici bir zaafa kapılmış. Hasılı, iki sene evvel bahsettiğim arkadaşla Avrupa'da tanışmışlar. Bilmem, size daha fazla tafsilat vermek doğru olur mu? Arkadaşımın adı Münevver'dir. Eski mabeyincilerden birinin kızıdır, ilk defa sevdiği bir adamla evlenmiş, bahtiyar olamamıştı. Sonra hastalandı. Doktorlar Avrupa'ya gönderilmesini tavsiye ettiler. Tam iyi olup memleketine döneceği bir sırada başına bu geldi. Kâmran Bey, bir aralık İsviçre'ye gitmiş. İzinle mi, vazifeyle mi, pek bilemiyorum. Tesadüfleri orada olmuş. Kâmran Bey, bir hafta için İsviçre'ye geldiği halde iki aya yakın bir zaman orada kalmış, hatta bu yüzden galiba bir cezaya da uğramış. İşte bunu söylemek güç. Münevver, bugün sizin düşmanınız vaziyetindedir. Öyledir, Feride Hanım. Fakat hiç fena bir insan değildir. Gayet içlidir. Kâmran Bey, onun için rasgele bir macera değildir. Onunla evlenmeyi umuyordu. Bir kabahat varsa tamamıyla Kâmran Bey'de. Çünkü bir başkasıyla sözlü olduğunu bile saklamış. Beni bu çirkin vazifeyi üstüme almaya sevk eden şu ki, zaten hasta olan bu içli kadının ölmesinden korkuyorum. Niçin yalan söyleyeyim, öyle? Münevver, bu haberden sonra katiyen yaşamaz. Daha doğrusu ikinize yazık. Niçin, Feride Hanım? Gerçi Münevver, bunca senelik arkadaşım. Fakat, siz de çok iyi ve bu işte tamamıyla suçsuz, günahsız bir genç kızsınız. Onun için size de acırsam... Feride Hanım, sözlerimden belki şüphe edersiniz diye size Kâmran Bey'in bir mektubunu getirdim. Bilmem, onu görmek sizi müteessir edecek mi? İsterseniz onu size bırakayım. Sonra okursunuz. Arkadaşıma artık lüzumu kalmadı. Feride Hanım, sizi üzdüm. Fakat inanınız ki... Feride Hanım, bir dakika daha müsaade. Arkadaşıma ne söyleyeyim?"
+
+
+[DİYALOG 178]
+Konuşmacı: Feride
+Muhatap: Siyah Çarşaflı Kadın
+Metin: "Buyurunuz hanımefendi, bir emriniz mi var? Evet, efendim. Evet. Emrediniz, efendim. Çok âlâ hanımefendi, buyurun, lütfen içeri; köşkten sorarsanız size Feride Hanım'ı çağırırlar. Hanımefendi, acayip bir kıyafette olduğum için birdenbire cesaret edemedim. Fakat Feride benim. Köşkte bir tane Feride var hanımefendi. Emrinizi bekliyorum, hanımefendi... İsterseniz şuraya gidelim, hanımefendi. Kimse bizi rahatsız etmeden konuşabiliriz. Vazife vazifedir, hanımefendi. Cesur olmak lazım. Bahsettiğiniz, beni tanıyor mu? Kâmran Beyi tanıyor mu? Bu vaziyette tereddüt doğru değil. Görüyorum ki, konuşacağımız şey mühim. Onun için teessürü falan bir tarafa bırakarak açık konuşursak daha iyi olur. Bunun sizinle alakasını göremiyorum, hanımefendi. Açık konuşmazsak işin içinden çıkamayacağımızı evvelce söyledim, hanımefendi. Olabilir, hanımefendi, Kâmran, birçok meziyetleri olan bir gençtir. Bir başkasının onu gözüne kestirmiş olmasında hiç fevkalâdelik görmem. Sözlerinizin doğru olduğunu ispat için evet. Müsaadenizle bir sual, arkadaşınızın bunları benim haber almamı istemekten maksadı ne? Estağfurullah. Doğru söylediğinizden nasıl emin olayım? Yazık zavallıya. Beni karıştırmayınız, siz şimdilik yalnız onu düşünebilirsiniz. Ona müsaade edemem. Hem zannederim ki artık konuşacak şeyimiz de kalmadı. Bana bir faydası olmayacak. Bir hatıradır; kendisinde kalması daha iyi olur. Yalnız bir dakika müsaade ederseniz bir göz gezdireyim. Ne münasebet, üzülecek bir şey yok ortada. Bunlar olağan işler. Hatta, size teşekkür bile edeceğim. Bana bir hakikati öğrettiniz. Şimdi artık sizden müsaade isteyeceğim. Vazifenizi yaptığınızı söyleyiniz. Öte tarafı artık kendi bileceği şeydir, dersiniz, olur biter."
+
+
+[DİYALOG 179]
+Konuşmacı: Hacı Kalfa
+Muhatap: Feride
+Metin: "Geldiğin günden beri gece demezsin gündüz demezsin, yazarsın da yazarsın. Ne bitip tükenmez yazıdır bu? Mektup desem değil; mektup, deftere yazılmaz. Kitap desem değil, bizim bildiğimiz, kitabı saçlı sakallı ulemalar yazar. Sen parmak kadar çocuksun. Öyleyse ne yazarsın böyle durup dinlenmeden? Ne yaparsın, hanımlık yapıyoruz, hanım gibi giyineceğiz elbette. Başını ört hocanım, ben geliyorum. Yoo! İş senin bildiğin gibi değildir, 'İslam muhadderatları'nın yanına öyle sallapati girilmez. Beni kızdırmak için mahsus yapıyorsun ama, kızmayacağım. Kafeste kuş gibi o kadar sıkılıyorsun bu yalnız odada ki; biraz alay çıkar, gül, ziyanı yok, ahbaplık daha artarsa ben, sana bir parça da oynayacağım galiba, biraz eğlenmen için, anladın mı efendim? Çocuk aldatıyorsun, Hacı Kalfa kaç baharın yoğurdunu yemiştir, bilirsin sen? Onlar ki hattat gibi sülüs yazılar, iki para etmez yazdıkları. Onlar ki böyle karınca ayağı gibi eğri büğrü bir şeyler karalarlar, ne çıkarsa onlardan çıkar. Biz, dairelerde ne kadar taban tepmiş, ne çeşit memurlar görmüşüz, bilirsin sen? Bir derdin vardır senin, vardır ama, her neyse onun sırası bizlere düşmez. Yalnız yazarken, parmaklarını mürekkeple boyamamaya gayret et ki, çocuklara karşı asıl ayıp odur. Haydi bakalım, sen yaz yazını; ben de tahtalarımı fırçalayım."
+
+
+[DİYALOG 180]
+Konuşmacı: Gülmisal Kalfa
+Muhatap: Feride
+Metin: "Bir şey mi istediniz hanım? Fesuphanallah, fesuphanallah! Açsana yüzünü hanım? Güzide, Güzidem gelmiş. Ah, evladım! Ah çocuğum, ah çocuğum... Çok, kızım, seni görünce aklım karıştı, onu görüyorum sandım. Allah toprağı kadar ömür versin sana. Feride, sen çocukluk etmişsin, Kâmran Bey bir cahillik etmiş. Tövbe eder, bir daha yapmaz! Bu ellere kıyabilir miyim ben? Kızım, sen onların yarısını kabuklarıyla beraber atıyorsun. Feride, evlatçığım, sen çok yanlış yola gidiyorsun. Anneni buradan vapura bindirdim, Feride. Hem, o senin gibi yalnız değildi. İnşallah yine seni böyle kucağıma alırım."
+
+
+[DİYALOG 181]
+Konuşmacı: Feride
+Muhatap: Gülmisal Kalfa
+Metin: "Dadı, beni tanımadın mı? Kalfa, annem bana çok mu benziyordu? Gülmisal Kalfa, ihtiyar kafacığını nafile yorma! Ben, iki üç gün sana misafir olduktan sonra başka bir memlekete gideceğim. Elimin emeğiyle yaşayacağım. Sahi öyle kalfa. Ben, bunu senden öğrenmeseydim, bin zahmetle satın aldığım patateslerimin yarısını atacak ve ömrümün sonuna kadar farkında olmayacaktım. Dadı, patatesin tanesini kaç kuruşa verirler? Kabuklarını en çok kaç santim kesmek lâzım gelir? Dadı, tahta silmek için kaç kova su lâzım? Ah, kalfacığım, kim bilir gideceğim yerler ne kadar güzeldir. Ben, Arabistan'ı hayal meyal biliyorum. Anadolu herhalde ondan çok daha güzeldir. Oradaki insanlar bize benzemezlermiş. Kendileri fakirmiş, fakat gönülleri öyle zengin, öyle zenginmiş ki, hiçbiri, değil fakir bir akraba çocuğuna, hatta düşmanına ettiği iyiliği başına kakmak mürüvvetsizliğinde bulunmazmış. Küçük bir mektebim olacak. Baştan başa çiçeklerle donatacağım. Çocuklarım, bir alay çocuğum olacak. Kendime 'abla' dedirteceğim. Fakir olanlara, elimle siyah önlükler dikeceğim."
+
+
+[DİYALOG 182]
+Konuşmacı: Müdür-i Umumi (Nezaret)
+Muhatap: Feride
+Metin: "Muallimlik değil mi? İstidanız var mı? Görüyorsunuz ya hali, insan, nasıl çıldırmaz? İstida ile şahadetname arasındaki farktan haberleri yoktur. Sonra muallimlik isterler; daha sonra da maaş az, yer uzak diye kafa tutarlar. Ne bekliyorsunuz? Haydi bilmiyorsanız bir bilene sorun, istida yapın! Sabret hanım. Görmüyor musun? İstidanız reddedildi. Zevcenizin hizmeti otuz seneyi bulmuyormuş. Sen Hayriye Hanım değil misin? Hangi Feride? Ha, aklıma geldi. Maalesef sizinki de öyle. Mektebiniz, Nezaret-i Celile'ce musaddak değilmiş. Bu diploma ile memuriyet verilmez. Artık orasını da, müsaadenizle, kendiniz düşünün. Bu kadar meşguliyet arasında, bir de sizin ne olacağınızı düşünmeye kalkarsak vay halimize."
+
+
+[DİYALOG 183]
+Konuşmacı: Şube Müdürü (Nezaret)
+Muhatap: Feride / Naime Hocanım / Şahap Efendi
+Metin: "Hayrola Naime Hocanım? Pekâlâ kızım, pekâlâ. Geç şöyle otur bakalım... Aç yüzünü bakayım kızım. Ooo! Sen daha hemen hemen çocuksun. Yaşın kaç? Acayip. Mamafih, her neyse. Ancak sen, dışarı gidemezsin. Senin için hayli tehlike var. Niçini var mı, kızım? Sebep meydanda. Ben daha çok söyleyemem. Sen kadınca daha iyi anlatırsın Naime Hanım. Ah, sen bilsen dışarılarda ne yaman oğlu yamanlar vardır! Eh!.. Bu hakikaten hoş! Darülmuallimat'tan bu sene mi çıktınız, hanım kızım? Nasıl mektep bu? Güzel, âlâ... Pek güzel, pekâlâ ama, bizimkiler galiba bu mektebin diplomasını tanımıyorlar. Kızım, sen İstanbul rüştiyelerinden birinde Fransızca muallimliği istersin. Bak, sana yolunu öğreteyim. Doğru İstanbul Maarif Müdürlüğü'ne gidersin... Amma yaptın ha! Gönlünün rızasıyla Anadolu'ya gitmek isteyen muallimeye ilk defa tesadüf ediyorum. Ayol, biz muallimlerimizi İstanbul'dan çıkarıncaya kadar akla karayı seçeriz. Sen ne dersin Naime Hocanım? Bak, Şahap Efendi, hanım kızı odaya al, Anadolu'da muallimlik istiyor, bir istida müsveddesi yaz, bana getir. Haydi bakalım, kızım, Allah tesirini halk etsin. Ben, elimden geldiği kadar yardım ederim. Ne yapayım kızım? Ben de söyledim ama varak-ı mihr-i vefayı okuyup dinleyen var mı? Dur, kızım, bir tecrübe daha... Beyefendi, müsaade buyururlar mı biraz? Beyefendi, siz sevabı seversiniz. Bu çocuk, bir Fransız mektebinden çıkmış. Halinden, sözlerinden kibar bir ailenin çocuğu olduğu anlaşılıyor. Fakat malum ya, düşmez kalkmaz bir Allah. Çalışmak mecburiyetinde kalmış. 'En uzak bir köşeye bile giderim' diyor. Fakat bizimkini bilirsin ya. Gülü tarife ne hacet! 'Olmaz' diye kesip attı. Siz Nazır Beyefendi'ye bir iki 'kelime-i tayyibe' lütfederseniz bu iş olur. Kuzum Beyefendi! Bülbül gibi söylüyor Fransızcayı maşallah. Bir Türk kızı için şayan-ı takdir doğrusu."
+
+
+[DİYALOG 184]
+Konuşmacı: Şahap Efendi
+Muhatap: Feride
+Metin: "Muamele takip etmek güç bir şeydir, hemşire hanım. İzin verirseniz istidanızla bendeniz meşgul olayım. Siz rahatsız olmayın. Yalnız, arada sırada kaleme uğrayıverirsiniz. İki, üç gün sonra. Bugün cevap almaya geleceğinizi biliyordum... Tabii başka işler de var. Malum ya, mektepler yeni açıldı. Bilmem. Evrakınız Müdür-i Umumi'de. Teşrif ettiğiniz vakit kendisiyle görüşmenizi söyledi. Feride Hanım, büsbütün gidiyorsunuz demek."
+
+
+[DİYALOG 185]
+Konuşmacı: Feride
+Muhatap: Şube Müdürü / Şahap Efendi / Müdür-i Umumi
+Metin: "Yirmiyi bitirmek üzereyim efendim. Niçin efendim? Efendim, o çok yaman dediğiniz adamlar kimlerdir, bilmiyorum. Fakat siz de bana onların olmadığı yerde ders bulursunuz. Hayır efendim, ben Darülmuallimat'tan çıkmadım. Dam dö Sion mektebinden diplomalıyım. İstanbul'da kalmama imkân yok efendim, mutlaka vilayetlerden birine gitmek mecburiyetindeyim. Bu dairede, arkadaşlar birbirlerini ne iyi koruyorlar. Size bugün çok zahmet verdim, lütfen bunu nereye götüreceğimi de söyler misiniz efendim? Ne vakit geleyim? Hasta mısınız? Niçin bu halde daireye geliyorsunuz? Bana verilecek iyi bir cevabınız var mı? Efendim, beni emretmişsiniz. Benim mi efendim, bir yanlışlık olmasın? Hayır, ben Feride'yim efendim. Peki, ben ne olacağım? Beyefendi, benim diplomam işe yaramazmış, ne yapayım ben şimdi? Beyefendi, ben mutlaka bir iş bulmaya mecburum. Kimsenin beğenmediği, en uzak bir köy de olsa, ben güler yüzle kabul edeceğim. Artık şüphe kaldı mı?"
+
+
+[DİYALOG 186]
+Konuşmacı: Manastırlı Hanım
+Muhatap: Feride
+Metin: "İyisiniz inşallah, safa geldiniz, hanım kızım... Valide hanım nerede? Hocanım... Siz hocanımın kızı değil misiniz? Ay! Hocanım siz misiniz? Hiç de böyle parmak gibi gencecik hocanım görmedim. Ben, sizi yaşlı başlı hocanım sanıyordum. Olur ya, olur ya... Bu dünyada ne olmaz? Biz, ta şu karşıki odacıkta oturuyoruz, çocukları uyuttum, 'Safa geldin' demeye geldim size... Allah eksik etmesin, gündüzleri çoluk çocuk gailesi var. Haçan bu vakit olur, çocuklar uyurlar, bir kasvettir basar beni. Yalnızlık bir Allahü Teâlâ'ya muhsustur öyle değil mi hemşireceğim? Efkârlar bre efkârlar; iç sigara, iç sigara, iç sigara. Sabahı ederim. Allah gönderdi sizi hemşireceğim. İki lakırdı eder, açılırız. Ben iskemlede rahat edemem hemşireceğim. Ben de çokluk içmezdim ya. Gam, kasavet böyle yaptı. A hemşireceğim, gözümü açtım, onu gördüm. Bunca yıl bir yastığa baş koyduk. Kocadan ayrılmak kolay mı? Anadan geçilir, yârdan geçilmez. Siz daha pek çocuksunuz, hemşireceğim. Bu acıları çekmemişsiniz, bilmiyorsunuz. Allah yine de bildirmesin. Sonradan pişman olmuştur o kız, hemşireceğim. Acırım ona. Yüreği hasretten göz göz olmuştur. Sen, kurşunla vurulanları hiç işitmedin mi, be hemşireceğim? Bazıları, vurulduklarının farkında bile olamazlar, üç beş adım koşarlar, kaçıp kurtuluyoruz sanırlar. Yara sıcakken acımaz, hemşireceğim... Hele bir kere soğumaya başlasın. Sen bak, seyret o kızcağız nasıl yanıp yakılacak?... Gurbet ellerindeyim. Kolum, kanadım kırık. Elim ermez, gücüm yetmez. Manastır'da olaydım, kocamı iki günde bu aşiftenin elinden kurtarırdım ya. Ortağım, burada kocama basmış büyüyü, basmış büyüyü. Dilini ağzını bağlamış adamcağızın. Lâkin, Manastır büyücüleri daha ustadır. Çok değil, üç mecidiyeyi gözden çıkardım mı, kocamı kadının elinden alırlar, yine bana getirirlerdi. Adamcağızımın gözüne hoş görüneyim diye çocukların boğazından kesip düzgün, rastık, sürme alıyorum, yeni gelin gibi süsleniyorum, ama olmuyor. Dedim ya, büyü. İşin var mı, hemşireciğim? Azıcık geleyim mi? Kulun kurbanın olayım efendiciğim, öldür beni, lâkin bırakma, boşama!..."
+
+
+[DİYALOG 187]
+Konuşmacı: Feride
+Muhatap: Manastırlı Hanım
+Metin: "Safa bulduk efendim. Hangi valide hanım efendim? Ben hocanımın kızı değil, kendisiyim efendim. Şimdi böylesi de oluyor efendim. Buyurun, oturun. Teşekkür ederim, ben içmem efendim. A hanımcığım, siz de niçin sizi istemeyen bir insan üstüne bu kadar düşüyorsunuz? O sizi tekmeliyorsa siz de onu tekmelersiniz, olur biter. İnsan, kendini aldatan bir erkeği nasıl sever? Ben, bunu anlamıyorum. Ben bir kız biliyorum ki evleneceğine iki gün kala, nişanlısının kendisini başka bir kadınla aldattığını öğrendi, bu fena adamın yüzüğünü başına attı ve yabancı bir memlekete kaçtı. Ne yapardınız?"
+
+
+[DİYALOG 188]
+Konuşmacı: Maarif Müdürü (B...)
+Muhatap: Feride / Müdire
+Metin: "Ben ne yapayım, öyle yapmışlar, öyle olmuş, İstanbul'a yazmalı. Bakalım ne cevap gelir? Hayret, gerçi öyle ama, ötekine işten el çektirmek için emir yok. Nezaret-i Celile'den istizah edelim. Sekiz, on güne kadar cevap alırız. Siz de artık o zamana kadar idare-i maslahat buyurursunuz, Müdire Hanım. Hanım kızım, Nezaret-i Celile'den henüz bir cevap almış değiliz. Ne irade buyurulacağını kestiremiyorum. Ancak, Huriye Hanım kıdemli bir muallime olduğu için sanırım ki onu iltizam ederler. Aksi bir cevap geldiği takdirde müşkül mevkide kalacaksınız. Aklıma bir çare-i tesviye geldi. Buraya bir, iki saat mesafede bir 'Zeyniler' nahiyesi var. Havası, suyu güzel, menazır-ı tabiiyesi ferahfeza, ahalisi haluk ve müstakim, cennet gibi bir yer. Orada bir Vakıf Mektebi vardı. Geçen sene, bir hayli fedakârlıkla tamir ve tecdit ettik. Birçok levazım-ı tedrisiye ve ikmal-i nevakısına muvaffak olduk. Mektebin içinde muallimlerin ikametine mahsus daire de var. Şimdi bir genç muallimimizin himmet ve fedakârlığına muhtacız. Gönül ister ki, oraya sizin gibi güzide bir hanım gitsin. Cidden iyi bir yer. Hem de aynı zamanda ecirli bir hizmet-i vataniye olur. Gerçi, maaşı sizin burada alacağınız maaştan noksan. Fakat buna mukabil, et, süt, yumurta vesaire fiyatları, buradakiyle nispet kabul etmeyecek kadar ucuz, isterseniz bol para da biriktirebilirsiniz. Mamafih, ilk fırsatta maaşınıza zam yaparak bugünkü miktara iblağ ederim. O takdirde buradaki İdadi Müdürlüğü'nden daha kârlı bir vaziyete gelirsiniz. Mektepte ihtiyar bir hatun var. Hem derslere devam ediyor, hem mektebin hizmetlerini görüyor. Kendi halinde, namazında, niyazında bir kadıncağız. Yalnız, yeni tedris usullerine vâkıf değil. Gayri, siz onu da çeker çevirirsiniz. Maahaza, Zeyniler'i beğenmeyecek olursanız bana iki satır bir şey yazarsınız, derhal sizi buraya münasip bir yere alırım. Hoş, siz orayı gördükten sonra merkeze tayin edilseniz de 'istemem' diye ayak direyeceksiniz ya. Aman kızım, bu iş müstacel. Başka talipleri de var, elden kaçırırsan karışmam sonra."
+
+
+[DİYALOG 189]
+Konuşmacı: Huriye Hanım
+Muhatap: Feride / Hocalar
+Metin: "Eyvahlar olsun a dostlar! Bu da mı başıma geldi? A dostlar, bana neler oldu? Bunca yıldan sonra başıma bu haller gelmeli miydi? Hanımefendi kızım, geçenlerde size karşı bir terbiyesizlik ettim. Allah aşkına kusuruma bakmayınız. Sinir hali, pek fazla müteessirim de... Ah kızım, benim neler çektiğimi bilseniz, halime acırsınız. Ne olur terbiyesizliğimi affedin."
+
+
+[DİYALOG 190]
+Konuşmacı: Genç Kara Gözlü Muallime
+Muhatap: Feride / Huriye Hanım / Müdire
+Metin: "Bilmeyen, bu kadının kocası evlenmiş, üstüne ortak getirmiş sanır. Baygınlık falan değil, vallahi şirretliğinden. Müdire Hanım, bu nasıl müdirelik? Bu kadının, bir muallimenin namusuna dil uzatmasına nasıl müsaade ediyorsunuz? Neredeyiz? Bir kelime daha söylemesine müsaade edersiniz, onu değil sizi mahkemelerde süründürürüm. Kendini nerede sanıyor bu kadın?... Aferin size arkadaşlar, çok beğendim doğrusu. Mektep içinde bir meslektaşın tahkir edilmesini böyle sırıta sırıta dinliyorsunuz ha? Mahsus yaptım. Böylelerine ara sıra gözdağı verilmezse olmaz, insanın başına çıkmaya kalkarlar sonra. Ne yaparsınız. Dersten sonra görüşürüz, olmaz mı?"
+
+
+[DİYALOG 191]
+Konuşmacı: Hatice Hanım (Zeyniler)
+Muhatap: Feride / Muhtar
+Metin: "Kimdir o? Safa geldin hocanım, buyurun! Dur kızım... Haydi kızım, besmele çek de evvela sağ ayağını at. Oda, bu sene boş kaldığı için tozlanmış. Yarın sabah erkenden temizlerim inşallah. İnsan, sağlığında alışmalı kızım, hepimizin gideceği yer orası. Evet kızım; Zeyniler kabristanı. Eski zamandan kalma. Şimdi cenazeleri başka yere gömüyorlar, burası tarih gibi bir şey. Ben, Zeyni Baba'nın fenerini yakmaya gidiyorum, şimdi gelirim. Himmeti hazır, nazır olsun, bir mübarek zat, na, şuradaki servinin altında yatar. Gel kızım, daha iyi olur. Gelir gelmez, Zeyni Baba'yı ziyaret edersen daha makbule geçer. Ben de bilmem kızım, bu köy eskiden onlarınmış. Şimdi mezarlarından gayri bir şeyleri kalmamış. Himmetleri hazır nazır olsun, erenlerdenmiş. Zeyni Baba bunların en büyüğü. Kimsenin iyi edemediği hastaları, buraya getirirler. Ben, bir kötürüm kadın bilirim ki, buraya sırtta getirdiler, ayaklarıyla yürüye yürüye gitti. Haydi kızım, içeri girelim... Haydi kızım, buraya kadar geldikten sonra girmezsen günah olur. Gönlünde ne dileğin varsa Zeyni Baba'dan iste!.. Köyde birisi öleceği vakit, Azrail aleyhisselam, evvela Zeyni Baba'ya misafir olur, o vakit bu ışık kendi kendine söner. Şimdi kızım, Zeyni Baba'dan isteyeceğini iste. Muhtar, memnun oluyor. Aferin sana Hatice Hanım, iyi ki aklıma getirdin. Bizim evde bir dolap var. İnşallah, hınzırı yaramazlık ettiği zaman ben de onun içine kapatayım, diyor. E, var, iki, üç tane. Büyücekleri Garipler Köyü'ndeki erkek mektebine gönderiyoruz. Şu karşıdaki ağaran kayaların ardında. Onlar yola alışıktır, yağmursuz havalarda bir saate bile kalmadan giderler. Sadece yağmurlu, çamurlu, karlı havalarda biraz zorluk çekiyorlar. Kadın, erkek bir arada okur mu? Elbette kızım, on ikişer, on üçer yaşında koca delikanlılar. Hele şimdi hiç caiz olmaz! Sen pek gencecik bir hocanımsın da ondan, kızım. Ben yapmadım, eski hocanım yaptı kızım. Çocuklar böyle yerlere oturmaya alışmışlardır. Minare gibi şeyin üstünde adamın zihnine ders girer mi? Hocanım müfettiş falan gelir diye büsbütün atmaya da korktu. Çocuklar, mektebe geldikleri vakit evvela oraya oturtuyoruz. Sonra ders okuyacakları zaman şuradaki hasırın üstüne indiririz. Elbette kızım! Mektep bu. Keser vurmadan ağaç yontulur mu? Ne kadar ses çıkarırlarsa, ders o kadar zihinlerinde yer eder. Hay Allah razı olsun kızım, kafacığım dinlendi. Biz ne gördükse, onu okutuyoruz kızım. Sizin bildiklerinizi bilmeyiz, ne yapalım, mektepli değiliz ki. İlahi kızım, bunlar koskoca gelinlik kızlar. Sokakta baş açık gezecek değiller ya. Galiba başörtüsünü unutmuşsun kızım. E, hakçası aranırsa var. Ben karışmam ya, baş açık ders okutmak günah olmaz mı? Peki kızım, sana temiz bir tülbent vereyim. O kadar baktıklarına şükür, başkası olsa sokağa atardı. Bu kızın annesi fena kadın, kızım, aklımda kalmadı, beş yıl evvel mi ne, bir jandarma mülazımıyla kaçtı. Bu kızcağız daha pek küçüktü. Ondan sonra, zabit de onu bırakıp başka memleketlere gitmişti. Kadın, dillenince delikanlılar dağa kaldırmışlar, hasılı kötü oldu gitti. Daha ne yapsınlar? Öyle kadının çocuğuna diba kumaşları giydirecek halleri yok ya. Kimdir o? Sen kimsin? Fena olmaz. Yarın muhtarla konuşalım. O 'Peki!' derse babasını da razı ederiz, iyi olur. Haydi artık içeri girin, üşüyeceksiniz, hasta olacaksınız. Aman hocanım aşağıya iki efendi geldi. Birisi Maarif Müdürü'ymüş, teftişe gelmiş. Çabuk in! Ben konuşmaya sıkılırım."
+
+
+[DİYALOG 192]
+Konuşmacı: Vehbi
+Muhatap: Feride / Kız Talebeler
+Metin: "Sen güzel cızmışsın be. Ağama alıvereyem seni. Bizim gelinimiz ol. Ağam, sana pabuçlar, entariler, taraklar alıverir. Yağma var mı, boşçasına söyler miyim? Sana İstanbullu yence derim, cestane çetiveririm, ağam senin boynuna altınlar tacar. Var amma, o cara cız, onu da çoban Hasan'a veririz. Candarma. Canavarları çeser. Sen, karı kısmısın, aklın ermez. Gavurun kızları, bırakın kızı, be. Hepinizi çeserim! Gitti fakir kızcağız, kurtlar yemiş olmalı! Kız hocanım, çabuk zarnını giyin, gel be. Seni misafir odasına çağırıyorlar. Hekim çağrıyor, babam söyledi."
+
+
+[DİYALOG 193]
+Konuşmacı: Munise
+Muhatap: Feride
+Metin: "Benim adım Munise, hocanım. Evet, hocanım. Abam göndermedi hocanım, işimiz vardı. Bundan sonra gelirim. Abam var hocanım. Bendim hocanım. Ne yapıyorum ben size, yapmayın! O bana acıyor, ben de ona acıyorum. İkimizin de elimizde bir şey yok ki... Bir parça ekmek! Anacığım, anacığım! Olur mu abacığım? Sen, küçüksün, abacığım, sana nasıl anne derim? Sen, benden o kadar büyük değilsin ki abacığım, on dört-on beş yaş. Sen daha gelin olacaksın abacığım. Ben, saçımın iki tarafına teller takacağım. Kendin gibi güzel bir... Kuzum, abacığım, gel. İkimiz yan yana aynaya bakalım. Nafile abacığım, sana benzemiyorum ki... Nemelâzım abacığım, ben senin gibi güzel değilim ki... Abacığım sen kadife gibisin. Senin yüzünde insan ayna gibi kendini görüyor. Abacığım, neren ağrıyor? Yüzün sapsarı. Abacığım, ben bir şey yaptım ama, bilmem darılacak mısın? Ben onları yaktım abacığım. Ne yapayım, sen pek üzülüyordun... Abacığım, ağlama. Ben onları yakmadım, sana mahsus öyle söyledim. Üzülmeseydin o vakit yakacaktım. Al işte. Al abacığım, onlar galiba, senin sevdiğin birisinden geliyor. Ne bileyim abacığım? Sevdiğinden olmasa böyle ağlar mısın? Her zaman olur, jandarmalar eşkıya kovalıyor. Allah esirgesin, abacığım, kendimi kuyuya atarım. Üzülmüyorum, abacığım. Babama acırım ama, o kadar sevmem abacığım. Efendim, şimdi geliyorum! Annem beni görmeye gelmiş. Gideceğimi duymuş da... Darılma bana abacığım."
+
+
+[DİYALOG 194]
+Konuşmacı: Doktor Hayrullah Bey
+Muhatap: Yüzbaşı / Feride / Yaralı Asker
+Metin: "Yahu, yüzbaşım, hatırın kalmasın ama sana: 'Ayı Dayı' adını takanların yerden göğe kadar hakları varmış. Aramızda kadın varmış da ne diye beni kibar kibar söyletiyorsun. Hemşire Hanım, kusura bakmayın. Geldiğinizi göremedim. Geçiniz yukarı. Ama biraz durun da ben ineyim. Merdivenler yufka gibi; ikimizi birden çekeceğe benzemiyor. Haydi geçin şimdi. Ben geliyorum. Yüzbaşım, bu muallime İstanbullu. Nereden anladığıma şaşıyorsun, değil mi? Ah, yüzbaşım, sen kâinatta hangi hadiseye böyle koyun gibi bön bön bakmadın? Merdiveni çıkışından anladım. Gördün mü, nasıl keklik gibi sekiyor? Şimdi istersen yaşını da söyleyeyim; Bu kadıncağız, taş çatlasa kırktan fazla değil. Efendim, vaka malum, bir yaralımız var. Ehemmiyetli bir şey değil. Fakat bakılmaya muhtaç. Kendim biraz sonra gideceğim. Yapılacak şey, ehemmiyetsiz bir pansuman, ama ağızlarına, yüzlerine bulaştırmalarından korkuyorum. Onların doktora da emniyetleri zayıftır. Fırsat buldular mı, hemen kocakarı ilaçlarına başvururlar, ister misiniz, yaranın üstüne türlü müzahrefat yapıştırsınlar? Siz mektep, medrese görmüşsünüz. Yapılacak şeyleri ben size tarif ederim. Adamcağız, ayaklanıncaya kadar bakıverirsiniz artık, yalnız bilmem içiniz dayanır mı? Sen, açsana yüzünü bakayım... Sen ne arıyorsun burada? Şahsını değil, nev'ini tanırım kızım, nev'ini. Hatta, maalesef yeryüzünde çok azalmaya başlayan nev'ini. O ipiri, şuursuz fil azmanlarının tam tersine ufacık, neşeli, sıhhatli, zarif -hatta ihtiyar olduğum için güzel sıfatını da ilave edebilirim- güzel bir kibar çocuğu... Söyle bakayım bana, sen nereden düştün buralara? Demek sen, buraya hizmet için geldin? Sırf maarife hizmet için öyle mi? Bu yaşta, bu çehre ve yaradılışla mı? Sen doğruyu söylesene bana. Gözlerime bak bakayım. Ha, şöyle! Ben, bunları yutar mıyım sanıyorsun? Değil, kızım. Asıl sebep başka. Hatta, maişet derdi de değil. Sen, saklanmaya çalıştıkça, daha iyi görüyorum. Kim olduğunu, aileni, evini falan sorsam söylemezsin, değil mi? Bak, bak nasıl biliyorum. Burada bir muamma var. Derin karıştıracak değilim. Aramızda bir işaret kâfi.. Sana bir küçük hizmet etmeme müsaade eder misin? Seni daha iyi bir yere göndertsem ister misin? Benim tek tük bildiklerim var Maarifte. Çok âlâ, çok âlâ. Fakat fedakârlıklar öyle kolay gitmez. Günün birinde canın sıkılırsa bana iki satırlık bir şey yaz, adresimi de bırakayım sana, insanlıktır bu. Nasılsın molla, biraz ferahladın mı? Kımıldama, yat. Ağrın, sızın var mı? Ah benim sevgili ayılarım! Dizkapağını elmacıkkemiği sanır. Midesini tabanında farz eder ama, yerine göre karşısına dikilenlere duman attırır. Geçer molla, bir şey kalmaz. Allah'a şükret ki, az sola sapmadı o kurşun. Sen bir haftaya kadar dipdiri ayağa kalkmak ister misin? Yok, burası rahat geldi de, biraz yatayım dersen o başka. Öyleyse, bu kızcağız ne derse yapacaksın, anladın mı? Doktorun artık o. Yaranı o değiştirecek. Eğer ev ilacı falan diye bir halt ettiğini duyarsam, vay haline... Alimallah tekrar gelir, çatır çatır keserim bacağını. Kes sesini be. Yazık senin erkekliğine! Koskoca bıyıklı, sakallı herif, parmak kadar kızın yanında bağırmaya utanmaz mısın? Bu yara değil oyuncak. Böyle hastabakıcıya düşeceğimi bilsem, ben bile bir tarafımı şöyle zararsızca kestirirdim."
+
+
+[DİYALOG 195]
+Konuşmacı: Maarif Müdürü Raşit Nâzım (Yeni Müdür)
+Muhatap: Feride / Mühendis Mümtaz
+Metin: "Muallime Hanım mı? Teşerrüf ettim. Ben, Maarif Müdürü Raşit Nâzım. Bu ne karanlık yer böyle. Mektep değil, adeta ahır. Monşer, şuraya bak. Ne mizer, ne mizer!.. Mektep demeye bin şahit ister. Nasıl radikal olmak lâzım? 'Ya hep, ya hiç!' dediğime bir kere daha hak veriyorsun ya! Efendim, arkadaşımı takdim edeyim: 'Vilayet Nafia Mühendisi Mümtaz Bey.' Azizim, büyük projelerim var. Her şeyi yıkıp yeniden yapacağım. Tertemiz müesseseler, istediğim tahsisatı vermezlerse vay hallerine. Çok tedarikli geldim, İstanbul matbuatı ateş etmeye hazır bir batarya vaziyetinde, benden küçük bir işaret üzerine bam bum... Müthiş bir bombardıman. Anlıyorsun ya, ya bu kafanın içindeki dünya hakikat olacak, ya ben postu vereceğim. Ne kadar talebeniz var? On yedi çocuk için bir mektep. Garip lüks! Sen binayı görecek misin Mümtaz? Rica ederim azizim, mektepteyiz. Ciddi olunuz! Efendim, ben bu mektebi kapatacağım. Efendim, böyle kepaze binada çocuk terbiye edilemez. Sonra talebe de az. Vilayette kaldığım müddetçe bütün gayretimi sarf edeceğim, köylerden birçoğunu ucuz, fakat zarif, sıhhi, modern, yani müceddet mekteplere sahip etmeye çalışacağım. Şimdi bana lütfen izahat veriniz. Size gelince, efendim, sizi başka münasip bir yere tayin ederim. Mektebin kapanma emrini alınca B.'ye gelirsiniz, icabına bakarız, isminiz lütfen? Efendim, Avrupa'da güzel bir âdet vardır. Baba adını da ilave ediyorlar. Daha muvazzah bir isim olur. Siz muallimler, bu yenilikleri tatbik edivermelisiniz. Faraza künye defterine talebenizi, Melahat babası Ali Hoca, diye yazacağınıza, Melahat Ali deyiverirsiniz, olur biter. Anlaşıldı mı, efendim? Pederinizin ismi? Efendim, size Feride Nizamettin diyeceğiz. Bu şekil size birdenbire garip görünür, ama alışırsınız. Nereden mezunsunuz? Dediğim gibi B.'ye geldiğiniz vakit beni ziyaret edersiniz. Size münasip bir yer ararız. Haydi Mümtaz, programda daha iki köy var. Vaktimiz yok. Raporunuzu sonra yazarsınız. Haydi buyurun. Efendim, ne memleket, ne memleket! Dünyanın israfını yaparlar da kendilerine bir kartvizit bastırmazlar. Seksen kişi sizi görmek istediğine dair kapıdan hademe ile haber gönderir. Hademe doğru dürüst isimlerini söyleyemez, bir keşmekeştir gider. Ben, idarede Deli Petro sistemine taraftarım. Memurları yalnız resmi hayatlarında değil, hususi hayatlarında da takip etmeli; yedikleri, içtikleri şeye, oturdukları, gezdikleri yere,..."
+
+
+[DİYALOG 196]
+Konuşmacı: Mühendis Mümtaz Bey
+Muhatap: Maarif Müdürü / Feride
+Metin: "Mal meydanda. Ne hacet? Aman azizim, bir bahane ile şunun yüzünü açtır, yüzünün rengi peçenin altında yangın gibi yanıyor. Nereden düşmüş buraya? Bu fevkalâde bir parça. Beni bırak da sen git. Bir çare bulup mutlaka yüzünü açtırmalıyım."
+
+
+[DİYALOG 197]
+Konuşmacı: Munise'nin Öz Annesi
+Muhatap: Feride
+Metin: "Biliyorum küçükhanım. Munise, bana söylüyordu... Ara sıra yolum düştükçe onu görmeye geliyordum. Allah sizden razı olsun. Gideyim hanımcığım, beni sizin yanınızda görmesinler."
+
+
+--------------------------------------------------------------------------------
+BÖLÜM 2: KARAKTER BAZLI DİYALOG HAVUZLARI (BIG FIVE KİŞİLİK ANALİZİ İÇİN)
+--------------------------------------------------------------------------------
+
+
+[KARAKTER: FERİDE (ÇALIKUŞU)]
+Toplam Replik Sayısı: 120+
+Dilsel & Kişilik Özellikleri: İronik, zeki, otoriteye boyun eğmeyen, hırçın, gururlu, sevgi ve merhametini hırçınlık maskesiyle gizleyen dinamik yapı (Yüksek Dışadönüklük & Açıklık, Karmaşık Nevrotiklik).
+Örnek Temsili Replikler:
+- "Köpeklere yiyecek vermek fena mı Ma Sor?"
+- "Merak etmeyiniz Ma Sor... Duvar çok alçak... Hem nasıl istiyorsunuz ki kapıdan çıkayım?... Kapıcı beni bırakır mı hiç?"
+- "Anladım Ma Sor, üzülmeyiniz... Ne yapalım, hepimiz öleceğiz..."
+- "Darılma o halde... Sen hanımlarla tuvalet konuşurken düşündüm ki, Allah seni yanlış yaratmış. Kız olacakmışsın..."
+- "Mümkün ama Kâmran Bey için zararlı olur sanırım. Çünkü Allah esirgesin evde kavga çıkarsa kuzenimin hali ne olur?"
+- "O cihetten sigortalıyım beyefendi; zaten uslu bir kız olsam da almazdınız. Çünkü benim ağaca çıkmak, kiraz çekirdeği atmaktan çok daha büyük suçlarım vardır..."
+- "Durunuz, netice fena olacak... Bilirsiniz ki ben Çalıkuşu'yum. Ağaçlar benim mülkümdür. Oralara benden başkasının ayak basmasına tahammül edemem."
+- "Bazı şeyler vardır ki, çocuk görür... Fakat artık büyümeye başlamış bir genç kız hiç fark edemez... Hadi gönlün rahat etsin..."
+- "Sizin böyle el çabukluğu hünerleriniz yoktu ama nasıl oldu? Bakın, ben size bu kadar güzel fondanın nasıl yeneceğini tarif edeyim de ondan sonra kapın..."
+- "Sen, naziksin; kuru yere oturma... Hasta olmaman için. Zannederim ki, seni muhafaza etmek bundan sonra benim vazifem oluyor."
+- "Müjgân yanılsaydı, böyle olmazdı ki."
+- "Olabilir, hanımefendi, Kâmran, birçok meziyetleri olan bir gençtir. Bir başkasının onu gözüne kestirmiş olmasında hiç fevkalâdelik görmem."
+- "Ne münasebet, üzülecek bir şey yok ortada. Bunlar olağan işler. Hatta, size teşekkür bile edeceğim. Bana bir hakikati öğrettiniz."
+- "Gülmisal Kalfa, ihtiyar kafacığını nafile yorma! Ben, iki üç gün sana misafir olduktan sonra başka bir memlekete gideceğim. Elimin emeğiyle yaşayacağım."
+- "Küçük bir mektebim olacak. Baştan başa çiçeklerle donatacağım. Çocuklarım, bir alay çocuğum olacak. Kendime 'abla' dedirteceğim."
+- "Beyefendi, ben mutlaka bir iş bulmaya mecburum. Kimsenin beğenmediği, en uzak bir köy de olsa, ben güler yüzle kabul edeceğim."
+- "Adam sen de! İnsanı en yakın akrabaları kalpsizce vurduktan sonra yabancılar vurmuş ne çıkar? Ben, o Zeyniler'de de mesut olmasını bileceğim. Gönüller şen olsun!"
+- "Bu küçük kızı bana verin. Kendime evlat edeyim, bağrıma basayım. Görüyorsunuz ki, biçare onların elinde ziyan olacak."
+- "Mamutlar gibi mi efendim?"
+
+
+[KARAKTER: KÂMRAN]
+Toplam Replik Sayısı: 35+
+Dilsel & Kişilik Özellikleri: Ağırbaşlı görünüşlü, nazik, konformist, zaaflara açık, çatışmadan kaçınan, duygusal ama iradesi kırılgan yapı (Yüksek Uyumluluk, Düşük Sorumluluk / İrade).
+Örnek Temsili Replikler:
+- "Ne zamana kadar bu çocukluk Feride?"
+- "Seninle şakalaşıyoruz ama, mesele çok mühim, Feride... Korkuyorum senden..."
+- "Bu sefer zannederim daha kıymetli bir şey bulacaksın, Feride."
+- "Artık size ermiş, yetişmiş bir genç kız muamelesi etmek lâzım geldiğini ağzınızdan işitmek beni pek bahtiyar etti Feride."
+- "Onu bana versene, Feride. Yiyeceğim. Sadece onu ver!"
+- "Bu yaz İstanbul'da çok sıkıldım, ama bilemezsiniz ne kadar çok..."
+- "Misafire hürmette kusur ediliyor galiba."
+- "Müjgân'dan öğrendiğim güzel şeyden sonra, yorulmama imkân yok... Bunu ümit ediyordum. Ben, buraya senin için geldim Feride..."
+- "Hayır, Feride, benimle evlenmeye razı olduğunu ağzından işitmeden seni bırakmam, beraber düşüp ölünceye kadar."
+- "Biliyor musun, Feride, beni bedbaht ediyorsun. Müjgân'a söylediğini bir kere de senin ağzından işitmek istiyorum. Zannederim ki, bu benim hakkım."
+- "Nasıl olur, Feride? Biz nişanlıyız."
+- "Feridem! Beni, bu dakika içinde o kadar mesut ettin ki, ölürken aklıma gelirse ağlayacağım."
+- "O cihetten söylemiyorum. Bundan sonra, ben artık hareketlerimde serbest bir insan değilim. Hayatıma taalluk eden her şeyi seninle konuşmaya mecburum. Öyle değil mi?"
+- "Aç, Feride, benim. Bana yasak yok tabii. Bırak, sana yardıma geleyim."
+- "Affet beni, Feride. Ben, sana küçük bir şaka yapmak istemiştim. Buna hakkım var sanıyordum. Fakat, hâlâ o kadar çocuksun ki... Beni affediyorsun değil mi?"
+
+
+[KARAKTER: DOKTOR HAYRULLAH BEY]
+Toplam Replik Sayısı: 10+
+Dilsel & Kişilik Özellikleri: Dobra, alaycı ve sert kabuklu görünümün altında derin bir merhamet, babacanlık ve kavrayış taşıyan, rasyonel ve koruyucu yapı (Yüksek Sorumluluk, Yüksek Dışadönüklük, Düşük Nevrotiklik).
+Örnek Temsili Replikler:
+- "Yahu, yüzbaşım, hatırın kalmasın ama sana: 'Ayı Dayı' adını takanların yerden göğe kadar hakları varmış. Aramızda kadın varmış da ne diye beni kibar kibar söyletiyorsun."
+- "Bu kadıncağız, taş çatlasa kırktan fazla değil."
+- "Şahsını değil, nev'ini tanırım kızım, nev'ini. Hatta, maalesef yeryüzünde çok azalmaya başlayan nev'ini."
+- "O ipiri, şuursuz fil azmanlarının tam tersine ufacık, neşeli, sıhhatli, zarif -hatta ihtiyar olduğum için güzel sıfatını da ilave edebilirim- güzel bir kibar çocuğu... Söyle bakayım bana, sen nereden düştün buralara?"
+- "Sen, saklanmaya çalıştıkça, daha iyi görüyorum. Kim olduğunu, aileni, evini falan sorsam söylemezsin, değil mi? Bak, bak nasıl biliyorum. Burada bir muamma var."
+- "Günün birinde canın sıkılırsa bana iki satırlık bir şey yaz, adresimi de bırakayım sana, insanlıktır bu."
+- "Ah benim sevgili ayılarım! Dizkapağını elmacıkkemiği sanır. Midesini tabanında farz eder ama, yerine göre karşısına dikilenlere duman attırır."
+- "Öyleyse, bu kızcağız ne derse yapacaksın, anladın mı? Doktorun artık o. Yaranı o değiştirecek."
+
+
+[KARAKTER: MÜJGÂN ABLA]
+Toplam Replik Sayısı: 20+
+Dilsel & Kişilik Özellikleri: Ağırbaşlı, sağduyulu, gözlemci, Feride'yi en iyi tanıyan ve koruyan dert ortağı ve sırdaş (Yüksek Uyumluluk ve Sorumluluk).
+Örnek Temsili Replikler:
+- "Deli çocuk, sen koskoca insanı nasıl kaldırırsın?"
+- "Yavrucuğum, ben öyle arkasından koşulacak bir kız değilim ki... O, senin için etrafımızda gidip geliyor..."
+- "Zavallı Ferideciğim. Sen, Kâmran'ı sahiden seviyorsun."
+- "Deli, sevmek ayıp mı? Kıyamet kopmadı ya... Daha olmazsa evlenirsiniz, olur biter..."
+- "Galiba o da sana karşı lakayt değil."
+- "Beni değil ama, galiba Feride'yi büsbütün Tekirdağ'da bırakacağız. Kısmeti çıktı."
+
+
+[KARAKTER: HACI KALFA]
+Toplam Replik Sayısı: 15+
+Dilsel & Kişilik Özellikleri: Samimi, halk diliyle konuşan, koruyucu, nüktedan, sadık ve babacan otel odacısı.
+Örnek Temsili Replikler:
+- "Geldiğin günden beri gece demezsin gündüz demezsin, yazarsın da yazarsın. Ne bitip tükenmez yazıdır bu?"
+- "Yoo! İş senin bildiğin gibi değildir, 'İslam muhadderatları'nın yanına öyle sallapati girilmez."
+- "Kafeste kuş gibi o kadar sıkılıyorsun bu yalnız odada ki; biraz alay çıkar, gül, ziyanı yok..."
+- "Biz, dairelerde ne kadar taban tepmiş, ne çeşit memurlar görmüşüz, bilirsin sen? Bir derdin vardır senin, vardır ama, her neyse onun sırası bizlere düşmez."
+- "Ne ettin behey cahil çocuk, ne ettin? En sonunda seni tongaya bastırdılar ha!"
+- "Sen bilmezsin o uyur yılanı, uyur uyur da sonra adama öyle bir vurur ki, nereden geldiğini fark edemezsin, anladın mı efendim?"
+- "Sen sen ol, karı koca arasına gireyim deme. Karı koca ipektir, araya giren köpektir."
+
+
+[KARAKTER: MUNİSE]
+Toplam Replik Sayısı: 15+
+Dilsel & Kişilik Özellikleri: Erken olgunlaşmış, şefkate ve korunmaya muhtaç, sadık, naif ve tatlı dilli öksüz kız çocuğu.
+Örnek Temsili Replikler:
+- "Benim adım Munise, hocanım."
+- "O bana acıyor, ben de ona acıyorum. İkimizin de elimizde bir şey yok ki..."
+- "Bir parça ekmek!"
+- "Anacığım, anacığım!"
+- "Sen, küçüksün, abacığım, sana nasıl anne derim? Sen, benden o kadar büyük değilsin ki abacığım, on dört-on beş yaş."
+- "Abacığım, ağlama. Ben onları yakmadım, sana mahsus öyle söyledim... Al abacığım, onlar galiba, senin sevdiğin birisinden geliyor."
+- "Allah esirgesin, abacığım, kendimi kuyuya atarım."

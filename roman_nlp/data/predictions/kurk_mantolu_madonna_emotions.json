@@ -1,0 +1,34 @@
+{
+  "Raif_Efendi": {
+    "joy": 0.1578,
+    "sadness": 0.5102,
+    "anger": 0.0127,
+    "fear": 0.1467,
+    "trust_affection": 0.0366,
+    "curiosity": 0.1361
+  },
+  "Maria_Puder": {
+    "joy": 0.4723,
+    "sadness": 0.2221,
+    "anger": 0.0984,
+    "fear": 0.022,
+    "trust_affection": 0.0937,
+    "curiosity": 0.0915
+  },
+  "Rasim": {
+    "joy": 0.1783,
+    "sadness": 0.2856,
+    "anger": 0.0191,
+    "fear": 0.0732,
+    "trust_affection": 0.1051,
+    "curiosity": 0.3386
+  },
+  "Hamdi": {
+    "joy": 0.6938,
+    "sadness": 0.0567,
+    "anger": 0.0189,
+    "fear": 0.0189,
+    "trust_affection": 0.0567,
+    "curiosity": 0.155
+  }
+}

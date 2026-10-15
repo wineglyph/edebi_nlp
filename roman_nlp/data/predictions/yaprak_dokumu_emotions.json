@@ -1,0 +1,42 @@
+{
+  "Ali_Riza_Bey": {
+    "joy": 0.2703,
+    "sadness": 0.275,
+    "anger": 0.034,
+    "fear": 0.1644,
+    "trust_affection": 0.1411,
+    "curiosity": 0.1152
+  },
+  "Sevket": {
+    "joy": 0.1062,
+    "sadness": 0.2546,
+    "anger": 0.1233,
+    "fear": 0.0856,
+    "trust_affection": 0.113,
+    "curiosity": 0.3174
+  },
+  "Fikret": {
+    "joy": 0.4027,
+    "sadness": 0.2398,
+    "anger": 0.0362,
+    "fear": 0.0362,
+    "trust_affection": 0.0814,
+    "curiosity": 0.2036
+  },
+  "Ferhunde": {
+    "joy": 0.6801,
+    "sadness": 0.0484,
+    "anger": 0.0766,
+    "fear": 0.0269,
+    "trust_affection": 0.0484,
+    "curiosity": 0.1196
+  },
+  "Leyla": {
+    "joy": 0.4496,
+    "sadness": 0.1727,
+    "anger": 0.1421,
+    "fear": 0.0162,
+    "trust_affection": 0.0378,
+    "curiosity": 0.1817
+  }
+}

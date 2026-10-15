@@ -1,0 +1,42 @@
+{
+  "Omer": {
+    "joy": 0.266,
+    "sadness": 0.4126,
+    "anger": 0.051,
+    "fear": 0.1496,
+    "trust_affection": 0.045,
+    "curiosity": 0.0757
+  },
+  "Macide": {
+    "joy": 0.2766,
+    "sadness": 0.1613,
+    "anger": 0.0307,
+    "fear": 0.1044,
+    "trust_affection": 0.0796,
+    "curiosity": 0.3474
+  },
+  "Bedri": {
+    "joy": 0.2496,
+    "sadness": 0.2407,
+    "anger": 0.0298,
+    "fear": 0.0358,
+    "trust_affection": 0.1431,
+    "curiosity": 0.301
+  },
+  "Nihat": {
+    "joy": 0.6095,
+    "sadness": 0.0617,
+    "anger": 0.0187,
+    "fear": 0.0761,
+    "trust_affection": 0.1031,
+    "curiosity": 0.1309
+  },
+  "Hafiz_Husamettin": {
+    "joy": 0.1202,
+    "sadness": 0.4092,
+    "anger": 0.0332,
+    "fear": 0.1611,
+    "trust_affection": 0.0742,
+    "curiosity": 0.202
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Ali_Riza_Bey": {
+    "openness": 0.7312,
+    "conscientiousness": 0.8366,
+    "extraversion": 0.3724,
+    "agreeableness": 0.7886,
+    "neuroticism": 0.6508
+  },
+  "Sevket": {
+    "openness": 0.6745,
+    "conscientiousness": 0.7564,
+    "extraversion": 0.5407,
+    "agreeableness": 0.6878,
+    "neuroticism": 0.622
+  },
+  "Fikret": {
+    "openness": 0.5233,
+    "conscientiousness": 0.6271,
+    "extraversion": 0.5497,
+    "agreeableness": 0.2948,
+    "neuroticism": 0.7817
+  },
+  "Ferhunde": {
+    "openness": 0.2881,
+    "conscientiousness": 0.235,
+    "extraversion": 0.8487,
+    "agreeableness": 0.3913,
+    "neuroticism": 0.4942
+  },
+  "Leyla": {
+    "openness": 0.3727,
+    "conscientiousness": 0.3172,
+    "extraversion": 0.8341,
+    "agreeableness": 0.2929,
+    "neuroticism": 0.7562
+  }
+}

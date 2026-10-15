@@ -1,0 +1,162 @@
+{
+  "Feride": {
+    "novel": "calikusu",
+    "openness": 0.85,
+    "conscientiousness": 0.65,
+    "extraversion": 0.90,
+    "agreeableness": 0.40,
+    "neuroticism": 0.75
+  },
+  "Kamran": {
+    "novel": "calikusu",
+    "openness": 0.55,
+    "conscientiousness": 0.35,
+    "extraversion": 0.50,
+    "agreeableness": 0.75,
+    "neuroticism": 0.65
+  },
+  "Hayrullah_Bey": {
+    "novel": "calikusu",
+    "openness": 0.80,
+    "conscientiousness": 0.90,
+    "extraversion": 0.75,
+    "agreeableness": 0.60,
+    "neuroticism": 0.20
+  },
+  "Mujgan": {
+    "novel": "calikusu",
+    "openness": 0.50,
+    "conscientiousness": 0.80,
+    "extraversion": 0.40,
+    "agreeableness": 0.85,
+    "neuroticism": 0.30
+  },
+  "Haci_Kalfa": {
+    "novel": "calikusu",
+    "openness": 0.45,
+    "conscientiousness": 0.70,
+    "extraversion": 0.75,
+    "agreeableness": 0.80,
+    "neuroticism": 0.35
+  },
+  "Munise": {
+    "novel": "calikusu",
+    "openness": 0.50,
+    "conscientiousness": 0.55,
+    "extraversion": 0.45,
+    "agreeableness": 0.85,
+    "neuroticism": 0.70
+  },
+  "Raif_Efendi": {
+    "novel": "kurk_mantolu_madonna",
+    "openness": 0.80,
+    "conscientiousness": 0.75,
+    "extraversion": 0.15,
+    "agreeableness": 0.85,
+    "neuroticism": 0.85
+  },
+  "Maria_Puder": {
+    "novel": "kurk_mantolu_madonna",
+    "openness": 0.90,
+    "conscientiousness": 0.75,
+    "extraversion": 0.70,
+    "agreeableness": 0.35,
+    "neuroticism": 0.70
+  },
+  "Rasim": {
+    "novel": "kurk_mantolu_madonna",
+    "openness": 0.80,
+    "conscientiousness": 0.70,
+    "extraversion": 0.45,
+    "agreeableness": 0.85,
+    "neuroticism": 0.60
+  },
+  "Hamdi": {
+    "novel": "kurk_mantolu_madonna",
+    "openness": 0.30,
+    "conscientiousness": 0.65,
+    "extraversion": 0.80,
+    "agreeableness": 0.25,
+    "neuroticism": 0.35
+  },
+  "Omer": {
+    "novel": "icimizdeki_seytan",
+    "openness": 0.80,
+    "conscientiousness": 0.20,
+    "extraversion": 0.70,
+    "agreeableness": 0.45,
+    "neuroticism": 0.90
+  },
+  "Macide": {
+    "novel": "icimizdeki_seytan",
+    "openness": 0.80,
+    "conscientiousness": 0.85,
+    "extraversion": 0.45,
+    "agreeableness": 0.80,
+    "neuroticism": 0.35
+  },
+  "Bedri": {
+    "novel": "icimizdeki_seytan",
+    "openness": 0.85,
+    "conscientiousness": 0.85,
+    "extraversion": 0.45,
+    "agreeableness": 0.90,
+    "neuroticism": 0.35
+  },
+  "Nihat": {
+    "novel": "icimizdeki_seytan",
+    "openness": 0.55,
+    "conscientiousness": 0.35,
+    "extraversion": 0.85,
+    "agreeableness": 0.15,
+    "neuroticism": 0.55
+  },
+  "Hafiz_Husamettin": {
+    "novel": "icimizdeki_seytan",
+    "openness": 0.55,
+    "conscientiousness": 0.65,
+    "extraversion": 0.60,
+    "agreeableness": 0.80,
+    "neuroticism": 0.75
+  },
+  "Ali_Riza_Bey": {
+    "novel": "yaprak_dokumu",
+    "openness": 0.65,
+    "conscientiousness": 0.95,
+    "extraversion": 0.35,
+    "agreeableness": 0.85,
+    "neuroticism": 0.70
+  },
+  "Sevket": {
+    "novel": "yaprak_dokumu",
+    "openness": 0.65,
+    "conscientiousness": 0.80,
+    "extraversion": 0.45,
+    "agreeableness": 0.85,
+    "neuroticism": 0.75
+  },
+  "Fikret": {
+    "novel": "yaprak_dokumu",
+    "openness": 0.60,
+    "conscientiousness": 0.85,
+    "extraversion": 0.50,
+    "agreeableness": 0.35,
+    "neuroticism": 0.70
+  },
+  "Ferhunde": {
+    "novel": "yaprak_dokumu",
+    "openness": 0.45,
+    "conscientiousness": 0.15,
+    "extraversion": 0.90,
+    "agreeableness": 0.15,
+    "neuroticism": 0.75
+  },
+  "Leyla": {
+    "novel": "yaprak_dokumu",
+    "openness": 0.50,
+    "conscientiousness": 0.20,
+    "extraversion": 0.80,
+    "agreeableness": 0.35,
+    "neuroticism": 0.85
+  }
+}
